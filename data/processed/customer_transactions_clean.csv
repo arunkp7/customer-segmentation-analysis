@@ -1,0 +1,1201 @@
+Customer_ID,Transaction_ID,Transaction_Date,Product,Product_Category,Quantity,Unit_Price,Transaction_Amount,Payment_Method,Region
+C058,T0001,13-03-2025,Laptop,Electronics,2,746.94,1493.88,Credit Card,North
+C217,T0002,16-09-2025,Laptop,Electronics,1,731.18,731.18,Credit Card,South
+C280,T0003,04-01-2025,T-Shirt,Clothing,1,35.62,35.62,Debit Card,West
+C175,T0004,22-06-2025,Mouse,Accessories,1,77.22,77.22,Credit Card,North
+C195,T0005,16-05-2025,Smartphone,Electronics,1,506.37,506.37,Credit Card,West
+C275,T0006,10-10-2025,Smartphone,Electronics,3,527.12,1581.36,UPI,East
+C099,T0007,29-05-2025,Blender,Home,1,112.74,112.74,Credit Card,South
+C052,T0008,06-07-2025,T-Shirt,Clothing,1,37.25,37.25,Debit Card,East
+C182,T0009,16-12-2025,Keyboard,Accessories,1,93.16,93.16,Credit Card,South
+C274,T0010,19-05-2025,Blender,Home,1,90.85,90.85,Debit Card,East
+C029,T0011,25-07-2025,Keyboard,Accessories,2,102.45,204.90,UPI,North
+C109,T0012,02-12-2025,Jacket,Clothing,2,90.91,181.82,Cash,West
+C235,T0013,15-10-2025,Headphones,Electronics,1,79.46,79.46,UPI,West
+C205,T0014,18-09-2025,Backpack,Accessories,1,119.78,119.78,Cash,North
+C025,T0015,15-12-2025,Smartphone,Electronics,1,395.99,395.99,Cash,North
+C198,T0016,09-05-2025,T-Shirt,Clothing,1,31.38,31.38,Credit Card,North
+C275,T0017,31-05-2025,Mouse,Accessories,2,37.11,74.22,Cash,South
+C233,T0018,15-05-2025,Laptop,Electronics,3,1125.51,3376.53,Debit Card,North
+C153,T0019,11-07-2025,Coffee Maker,Home,1,75.86,75.86,Debit Card,North
+C166,T0020,07-06-2025,Jeans,Clothing,1,85.75,85.75,Debit Card,North
+C124,T0021,06-09-2025,Jacket,Clothing,3,61.13,183.39,Credit Card,South
+C066,T0022,16-05-2025,Coffee Maker,Home,1,121.47,121.47,Cash,South
+C277,T0023,24-07-2025,Blender,Home,1,118.42,118.42,UPI,West
+C265,T0024,23-06-2025,Jeans,Clothing,1,43.48,43.48,Credit Card,South
+C113,T0025,28-04-2025,Laptop,Electronics,1,978.66,978.66,Credit Card,North
+C170,T0026,06-09-2025,Smartphone,Electronics,1,467.09,467.09,Debit Card,South
+C243,T0027,08-04-2025,Keyboard,Accessories,2,102.67,205.34,Credit Card,North
+C221,T0028,28-01-2025,Backpack,Accessories,1,72.03,72.03,Credit Card,North
+C207,T0029,08-05-2025,Blender,Home,1,134.78,134.78,Debit Card,South
+C275,T0030,25-08-2025,Jeans,Clothing,1,41.01,41.01,Debit Card,North
+C227,T0031,04-10-2025,Sneakers,Footwear,1,115.21,115.21,Credit Card,North
+C122,T0032,25-07-2025,Headphones,Electronics,1,117.02,117.02,Credit Card,South
+C195,T0033,21-08-2025,Laptop,Electronics,4,759.12,3036.48,UPI,West
+C250,T0034,30-01-2025,Headphones,Electronics,1,74.83,74.83,Credit Card,East
+C030,T0035,29-09-2025,Laptop,Electronics,1,901.71,901.71,Debit Card,North
+C261,T0036,04-02-2025,Smartphone,Electronics,2,341.11,682.22,Debit Card,West
+C062,T0037,14-11-2025,Jacket,Clothing,1,127.29,127.29,Credit Card,West
+C268,T0038,10-06-2025,Backpack,Accessories,3,48.38,145.14,Debit Card,East
+C203,T0039,11-06-2025,Headphones,Electronics,1,88.00,88.00,Credit Card,North
+C235,T0040,07-02-2025,Jacket,Clothing,4,179.49,717.96,Debit Card,East
+C068,T0041,09-07-2025,Backpack,Accessories,2,109.13,218.26,UPI,South
+C225,T0042,01-12-2025,Sneakers,Footwear,2,111.17,222.34,Credit Card,East
+C054,T0043,11-10-2025,Headphones,Electronics,1,182.35,182.35,Debit Card,East
+C145,T0044,18-12-2025,Jacket,Clothing,1,94.57,94.57,UPI,West
+C129,T0045,22-05-2025,Laptop,Electronics,1,854.15,854.15,Credit Card,North
+C171,T0046,15-08-2025,Headphones,Electronics,1,81.91,81.91,Cash,North
+C058,T0047,18-03-2025,Smartphone,Electronics,3,714.61,2143.83,Credit Card,East
+C076,T0048,21-01-2025,T-Shirt,Clothing,1,25.79,25.79,UPI,South
+C128,T0049,28-07-2025,Coffee Maker,Home,1,151.42,151.42,Debit Card,South
+C084,T0050,20-06-2025,Headphones,Electronics,2,43.97,87.94,Cash,South
+C137,T0051,20-01-2025,Headphones,Electronics,2,57.30,114.60,Cash,South
+C103,T0052,27-04-2025,Jeans,Clothing,1,79.23,79.23,Debit Card,North
+C099,T0053,23-05-2025,T-Shirt,Clothing,1,45.25,45.25,UPI,West
+C275,T0054,14-05-2025,Backpack,Accessories,3,40.38,121.14,Debit Card,East
+C020,T0055,10-06-2025,Smartphone,Electronics,1,507.41,507.41,Cash,North
+C198,T0056,12-08-2025,Jacket,Clothing,1,55.77,55.77,Credit Card,South
+C187,T0057,19-06-2025,T-Shirt,Clothing,1,38.25,38.25,UPI,North
+C154,T0058,26-07-2025,Sneakers,Footwear,1,90.84,90.84,UPI,South
+C099,T0059,31-03-2025,T-Shirt,Clothing,1,28.27,28.27,UPI,West
+C001,T0060,24-10-2025,Mouse,Accessories,1,42.94,42.94,UPI,West
+C227,T0061,28-03-2025,Jeans,Clothing,1,60.67,60.67,Credit Card,East
+C264,T0062,01-05-2025,Coffee Maker,Home,1,93.57,93.57,UPI,South
+C102,T0063,01-09-2025,Headphones,Electronics,1,79.17,79.17,Credit Card,West
+C213,T0064,16-07-2025,Coffee Maker,Home,1,143.38,143.38,Cash,West
+C125,T0065,24-02-2025,Headphones,Electronics,1,40.89,40.89,Cash,South
+C091,T0066,08-05-2025,Blender,Home,1,45.52,45.52,Credit Card,West
+C069,T0067,01-11-2025,Jeans,Clothing,1,89.27,89.27,UPI,West
+C259,T0068,23-03-2025,T-Shirt,Clothing,2,34.18,68.36,Cash,West
+C133,T0069,24-09-2025,Keyboard,Accessories,2,54.96,109.92,Cash,South
+C141,T0070,20-05-2025,Jeans,Clothing,1,47.14,47.14,UPI,East
+C277,T0071,22-12-2025,Smartphone,Electronics,1,438.76,438.76,Debit Card,South
+C033,T0072,01-08-2025,T-Shirt,Clothing,1,33.99,33.99,Credit Card,South
+C216,T0073,23-12-2025,T-Shirt,Clothing,3,35.44,106.32,Credit Card,West
+C245,T0074,19-07-2025,Laptop,Electronics,3,779.17,2337.51,Cash,South
+C250,T0075,19-07-2025,Keyboard,Accessories,1,73.71,73.71,UPI,West
+C085,T0076,01-10-2025,Jeans,Clothing,3,88.84,266.52,Credit Card,West
+C014,T0077,25-08-2025,Smartphone,Electronics,1,381.42,381.42,Debit Card,North
+C134,T0078,22-06-2025,T-Shirt,Clothing,1,30.91,30.91,Cash,East
+C216,T0079,04-10-2025,Mouse,Accessories,2,45.57,91.14,Credit Card,East
+C115,T0080,21-01-2025,Coffee Maker,Home,1,174.45,174.45,Credit Card,South
+C103,T0081,31-08-2025,Laptop,Electronics,1,743.13,743.13,Credit Card,South
+C239,T0082,07-11-2025,Blender,Home,1,80.58,80.58,Credit Card,South
+C160,T0083,22-10-2025,Smartphone,Electronics,1,857.33,857.33,Cash,West
+C102,T0084,05-05-2025,Smartphone,Electronics,1,798.34,798.34,Credit Card,East
+C062,T0085,08-08-2025,Jacket,Clothing,2,95.14,190.28,UPI,North
+C260,T0086,08-09-2025,Coffee Maker,Home,1,160.44,160.44,Credit Card,West
+C186,T0087,20-03-2025,Coffee Maker,Home,2,109.77,219.54,Cash,South
+C268,T0088,03-10-2025,Coffee Maker,Home,1,155.07,155.07,Cash,West
+C224,T0089,06-05-2025,Blender,Home,1,75.45,75.45,Credit Card,East
+C231,T0090,09-12-2025,Keyboard,Accessories,2,81.29,162.58,Cash,East
+C015,T0091,19-04-2025,Jeans,Clothing,2,40.91,81.82,UPI,East
+C175,T0092,22-05-2025,Mouse,Accessories,2,60.58,121.16,Credit Card,South
+C044,T0093,04-05-2025,Keyboard,Accessories,2,73.97,147.94,Cash,West
+C230,T0094,21-12-2025,Laptop,Electronics,1,732.96,732.96,Debit Card,East
+C189,T0095,09-10-2025,Jeans,Clothing,1,50.63,50.63,UPI,East
+C233,T0096,09-04-2025,Mouse,Accessories,1,29.98,29.98,UPI,North
+C275,T0097,05-09-2025,Blender,Home,1,63.80,63.80,UPI,East
+C052,T0098,04-06-2025,Keyboard,Accessories,1,62.48,62.48,Credit Card,South
+C141,T0099,24-12-2025,Laptop,Electronics,3,932.02,2796.06,Debit Card,West
+C053,T0100,14-08-2025,Laptop,Electronics,1,881.64,881.64,UPI,South
+C027,T0101,03-02-2025,Mouse,Accessories,3,46.05,138.15,Cash,West
+C038,T0102,18-03-2025,Jacket,Clothing,1,56.97,56.97,UPI,North
+C128,T0103,02-11-2025,Smartphone,Electronics,1,549.70,549.70,Debit Card,West
+C231,T0104,08-08-2025,Jeans,Clothing,1,65.31,65.31,UPI,North
+C051,T0105,11-02-2025,Keyboard,Accessories,1,53.82,53.82,Debit Card,South
+C089,T0106,19-08-2025,Sneakers,Footwear,1,50.27,50.27,Cash,East
+C017,T0107,21-08-2025,Keyboard,Accessories,1,55.44,55.44,Credit Card,South
+C136,T0108,12-04-2025,Coffee Maker,Home,1,154.51,154.51,Cash,North
+C279,T0109,14-03-2025,Keyboard,Accessories,1,111.76,111.76,Credit Card,North
+C085,T0110,28-05-2025,Mouse,Accessories,1,68.58,68.58,Cash,North
+C240,T0111,20-05-2025,Blender,Home,1,84.28,84.28,Cash,West
+C042,T0112,15-06-2025,Jacket,Clothing,1,106.16,106.16,UPI,North
+C047,T0113,22-10-2025,Keyboard,Accessories,3,105.24,315.72,Credit Card,East
+C021,T0114,23-05-2025,Headphones,Electronics,1,144.24,144.24,Debit Card,West
+C252,T0115,14-06-2025,Smartphone,Electronics,1,545.01,545.01,Credit Card,South
+C169,T0116,25-07-2025,T-Shirt,Clothing,1,25.09,25.09,Credit Card,West
+C046,T0117,26-07-2025,Backpack,Accessories,1,40.43,40.43,Credit Card,West
+C212,T0118,13-09-2025,Laptop,Electronics,1,817.07,817.07,Cash,North
+C105,T0119,13-08-2025,Mouse,Accessories,1,75.30,75.30,Cash,North
+C015,T0120,23-03-2025,Coffee Maker,Home,1,81.11,81.11,UPI,North
+C209,T0121,28-02-2025,Smartphone,Electronics,1,804.84,804.84,Cash,North
+C079,T0122,28-12-2025,Jeans,Clothing,3,47.51,142.53,UPI,West
+C248,T0123,16-07-2025,Jeans,Clothing,1,63.08,63.08,Debit Card,South
+C036,T0124,24-06-2025,Mouse,Accessories,2,70.54,141.08,UPI,North
+C145,T0125,04-12-2025,Blender,Home,1,104.56,104.56,Cash,South
+C229,T0126,06-10-2025,Sneakers,Footwear,1,83.24,83.24,Cash,West
+C165,T0127,16-07-2025,Keyboard,Accessories,4,51.49,205.96,Debit Card,West
+C023,T0128,15-07-2025,Backpack,Accessories,2,93.47,186.94,Cash,South
+C254,T0129,19-06-2025,Laptop,Electronics,1,1179.21,1179.21,Credit Card,West
+C052,T0130,15-03-2025,Sneakers,Footwear,3,51.53,154.59,Cash,South
+C039,T0131,16-11-2025,Jeans,Clothing,2,45.90,91.80,Cash,North
+C169,T0132,12-06-2025,Coffee Maker,Home,2,99.40,198.80,Cash,North
+C036,T0133,27-04-2025,Keyboard,Accessories,1,112.88,112.88,Credit Card,West
+C051,T0134,27-03-2025,Coffee Maker,Home,2,63.07,126.14,UPI,North
+C024,T0135,11-07-2025,Backpack,Accessories,2,56.40,112.80,Cash,South
+C126,T0136,03-04-2025,Sneakers,Footwear,1,118.18,118.18,Debit Card,South
+C041,T0137,04-05-2025,Jacket,Clothing,2,130.56,261.12,Cash,South
+C119,T0138,08-12-2025,Jeans,Clothing,1,57.57,57.57,Credit Card,West
+C148,T0139,26-06-2025,Coffee Maker,Home,1,59.60,59.60,UPI,West
+C129,T0140,16-07-2025,Jeans,Clothing,2,41.95,83.90,Cash,North
+C122,T0141,25-12-2025,T-Shirt,Clothing,1,35.12,35.12,UPI,North
+C203,T0142,26-01-2025,Mouse,Accessories,1,71.23,71.23,Cash,East
+C118,T0143,08-04-2025,Jacket,Clothing,2,78.47,156.94,UPI,South
+C050,T0144,14-08-2025,Coffee Maker,Home,1,90.16,90.16,Credit Card,East
+C068,T0145,01-08-2025,Smartphone,Electronics,3,496.03,1488.09,Debit Card,South
+C068,T0146,14-09-2025,Sneakers,Footwear,2,86.59,173.18,UPI,South
+C132,T0147,23-06-2025,Jeans,Clothing,3,47.71,143.13,Credit Card,West
+C039,T0148,13-12-2025,Headphones,Electronics,2,76.10,152.20,Cash,East
+C047,T0149,21-08-2025,T-Shirt,Clothing,1,33.78,33.78,UPI,East
+C196,T0150,30-04-2025,Coffee Maker,Home,3,64.08,192.24,Cash,North
+C168,T0151,26-08-2025,Jacket,Clothing,1,58.22,58.22,UPI,West
+C060,T0152,10-09-2025,Headphones,Electronics,1,45.95,45.95,Credit Card,North
+C121,T0153,10-12-2025,Sneakers,Footwear,1,95.36,95.36,Cash,South
+C213,T0154,28-07-2025,Coffee Maker,Home,1,113.62,113.62,UPI,North
+C190,T0155,05-07-2025,Keyboard,Accessories,1,115.55,115.55,Credit Card,East
+C279,T0156,08-04-2025,Coffee Maker,Home,1,101.76,101.76,Credit Card,West
+C047,T0157,11-01-2025,Coffee Maker,Home,1,133.13,133.13,Credit Card,East
+C125,T0158,11-10-2025,Headphones,Electronics,2,72.83,145.66,Debit Card,South
+C120,T0159,02-11-2025,Backpack,Accessories,2,100.98,201.96,Credit Card,East
+C075,T0160,26-02-2025,Headphones,Electronics,1,167.76,167.76,Credit Card,South
+C008,T0161,15-06-2025,Backpack,Accessories,2,51.41,102.82,Credit Card,South
+C136,T0162,28-02-2025,Laptop,Electronics,1,852.58,852.58,Credit Card,West
+C230,T0163,15-09-2025,Backpack,Accessories,1,39.81,39.81,Debit Card,North
+C267,T0164,01-02-2025,Mouse,Accessories,1,77.66,77.66,Cash,West
+C219,T0165,16-08-2025,Coffee Maker,Home,1,142.61,142.61,Credit Card,North
+C165,T0166,16-11-2025,Jacket,Clothing,1,66.40,66.40,UPI,West
+C272,T0167,20-02-2025,Mouse,Accessories,1,54.35,54.35,Credit Card,South
+C221,T0168,21-08-2025,Jeans,Clothing,2,54.83,109.66,Cash,West
+C049,T0169,11-07-2025,Backpack,Accessories,1,89.86,89.86,Debit Card,West
+C035,T0170,19-02-2025,Smartphone,Electronics,2,355.94,711.88,UPI,South
+C031,T0171,10-12-2025,Jacket,Clothing,3,123.02,369.06,Credit Card,West
+C182,T0172,27-01-2025,Coffee Maker,Home,3,104.98,314.94,UPI,East
+C181,T0173,03-12-2025,Smartphone,Electronics,1,427.64,427.64,Cash,South
+C056,T0174,23-05-2025,Backpack,Accessories,2,63.08,126.16,Debit Card,West
+C014,T0175,17-05-2025,Jacket,Clothing,3,157.83,473.49,Credit Card,South
+C140,T0176,29-06-2025,Blender,Home,2,141.37,282.74,Credit Card,South
+C074,T0177,21-11-2025,Jacket,Clothing,1,59.05,59.05,Credit Card,North
+C272,T0178,22-03-2025,Keyboard,Accessories,1,70.83,70.83,UPI,East
+C167,T0179,21-03-2025,Jacket,Clothing,1,164.83,164.83,Debit Card,North
+C042,T0180,07-11-2025,Mouse,Accessories,1,42.56,42.56,Cash,West
+C140,T0181,09-08-2025,Keyboard,Accessories,2,40.24,80.48,Credit Card,East
+C250,T0182,22-07-2025,Sneakers,Footwear,1,54.54,54.54,Credit Card,North
+C105,T0183,11-05-2025,Mouse,Accessories,3,64.88,194.64,UPI,East
+C062,T0184,08-03-2025,Laptop,Electronics,1,858.39,858.39,Cash,South
+C257,T0185,06-02-2025,Sneakers,Footwear,2,130.62,261.24,Cash,North
+C224,T0186,10-06-2025,Laptop,Electronics,1,646.72,646.72,Cash,West
+C214,T0187,16-06-2025,Mouse,Accessories,1,16.36,16.36,Debit Card,West
+C186,T0188,12-08-2025,Smartphone,Electronics,1,363.52,363.52,Cash,North
+C203,T0189,28-03-2025,Mouse,Accessories,2,29.40,58.80,Credit Card,North
+C272,T0190,29-06-2025,Sneakers,Footwear,1,127.62,127.62,Debit Card,South
+C053,T0191,20-03-2025,Headphones,Electronics,1,67.76,67.76,Credit Card,South
+C253,T0192,18-08-2025,Jeans,Clothing,2,75.59,151.18,UPI,East
+C078,T0193,05-06-2025,Jeans,Clothing,1,56.53,56.53,UPI,North
+C181,T0194,20-01-2025,Sneakers,Footwear,1,96.17,96.17,Credit Card,East
+C147,T0195,16-02-2025,Smartphone,Electronics,1,886.42,886.42,Cash,West
+C022,T0196,07-04-2025,Jeans,Clothing,3,64.30,192.90,UPI,West
+C257,T0197,25-06-2025,Headphones,Electronics,3,112.08,336.24,Credit Card,South
+C021,T0198,26-09-2025,Keyboard,Accessories,2,119.19,238.38,Debit Card,East
+C191,T0199,14-12-2025,Mouse,Accessories,1,65.34,65.34,Credit Card,East
+C034,T0200,26-05-2025,Backpack,Accessories,1,91.05,91.05,UPI,South
+C171,T0201,29-06-2025,Smartphone,Electronics,1,384.86,384.86,UPI,West
+C067,T0202,14-10-2025,Jacket,Clothing,2,61.01,122.02,Cash,East
+C066,T0203,17-12-2025,Coffee Maker,Home,2,173.12,346.24,Credit Card,West
+C261,T0204,20-04-2025,Backpack,Accessories,1,57.80,57.80,UPI,West
+C099,T0205,01-06-2025,Keyboard,Accessories,4,43.95,175.80,Credit Card,North
+C173,T0206,25-03-2025,Jacket,Clothing,1,98.97,98.97,Debit Card,South
+C225,T0207,02-05-2025,Laptop,Electronics,1,1005.82,1005.82,Cash,East
+C230,T0208,29-08-2025,Keyboard,Accessories,1,57.85,57.85,Debit Card,East
+C226,T0209,15-09-2025,Jeans,Clothing,2,76.69,153.38,Cash,South
+C103,T0210,25-11-2025,Jacket,Clothing,1,82.50,82.50,Cash,East
+C053,T0211,26-05-2025,Blender,Home,2,133.63,267.26,Credit Card,South
+C140,T0212,12-08-2025,Jeans,Clothing,3,38.84,116.52,Credit Card,South
+C231,T0213,22-07-2025,Backpack,Accessories,3,67.34,202.02,UPI,South
+C198,T0214,20-02-2025,Smartphone,Electronics,1,316.91,316.91,UPI,South
+C071,T0215,23-12-2025,Laptop,Electronics,1,1097.86,1097.86,Debit Card,West
+C230,T0216,12-05-2025,Jacket,Clothing,1,60.30,60.30,Debit Card,South
+C271,T0217,04-06-2025,T-Shirt,Clothing,1,25.08,25.08,Credit Card,North
+C123,T0218,02-02-2025,T-Shirt,Clothing,1,36.80,36.80,Credit Card,West
+C275,T0219,15-03-2025,Laptop,Electronics,1,945.03,945.03,UPI,West
+C001,T0220,06-04-2025,Jacket,Clothing,1,124.19,124.19,Credit Card,East
+C035,T0221,17-09-2025,Sneakers,Footwear,1,128.64,128.64,Credit Card,West
+C241,T0222,10-05-2025,Laptop,Electronics,1,1188.62,1188.62,Credit Card,East
+C035,T0223,23-02-2025,Backpack,Accessories,1,89.14,89.14,UPI,South
+C023,T0224,31-03-2025,Backpack,Accessories,1,103.22,103.22,Cash,West
+C094,T0225,23-08-2025,Headphones,Electronics,1,164.19,164.19,Credit Card,East
+C104,T0226,11-06-2025,Laptop,Electronics,2,1131.47,2262.94,UPI,West
+C279,T0227,08-04-2025,Jeans,Clothing,1,75.20,75.20,UPI,East
+C025,T0228,08-07-2025,Coffee Maker,Home,1,66.18,66.18,Cash,West
+C226,T0229,21-12-2025,T-Shirt,Clothing,1,21.54,21.54,Cash,East
+C266,T0230,10-02-2025,Mouse,Accessories,2,62.26,124.52,Cash,South
+C280,T0231,05-12-2025,Mouse,Accessories,1,20.20,20.20,UPI,East
+C229,T0232,16-08-2025,Jacket,Clothing,2,71.66,143.32,UPI,West
+C022,T0233,11-08-2025,Blender,Home,2,78.78,157.56,UPI,North
+C039,T0234,14-12-2025,Coffee Maker,Home,1,97.23,97.23,Debit Card,North
+C074,T0235,06-03-2025,Jacket,Clothing,1,106.96,106.96,Credit Card,South
+C188,T0236,06-11-2025,Backpack,Accessories,1,81.05,81.05,Debit Card,West
+C190,T0237,12-03-2025,Backpack,Accessories,1,36.92,36.92,UPI,West
+C161,T0238,14-01-2025,Coffee Maker,Home,1,174.87,174.87,Debit Card,West
+C266,T0239,14-05-2025,T-Shirt,Clothing,3,19.12,57.36,Cash,South
+C147,T0240,04-03-2025,Blender,Home,3,94.03,282.09,Debit Card,North
+C232,T0241,14-02-2025,Headphones,Electronics,2,111.22,222.44,UPI,East
+C034,T0242,22-03-2025,Sneakers,Footwear,1,139.13,139.13,Debit Card,East
+C261,T0243,13-03-2025,Keyboard,Accessories,1,48.09,48.09,Debit Card,West
+C014,T0244,10-10-2025,Backpack,Accessories,1,63.20,63.20,Debit Card,North
+C034,T0245,03-09-2025,Mouse,Accessories,1,61.60,61.60,Cash,West
+C038,T0246,19-08-2025,Headphones,Electronics,3,142.77,428.31,Cash,East
+C066,T0247,08-03-2025,Sneakers,Footwear,1,68.20,68.20,Cash,North
+C064,T0248,15-06-2025,Sneakers,Footwear,1,66.47,66.47,Debit Card,East
+C266,T0249,22-11-2025,Mouse,Accessories,2,31.29,62.58,UPI,South
+C156,T0250,28-03-2025,Jacket,Clothing,1,115.33,115.33,Debit Card,South
+C173,T0251,11-02-2025,Jacket,Clothing,1,162.29,162.29,Credit Card,East
+C108,T0252,12-09-2025,Jacket,Clothing,1,133.07,133.07,UPI,East
+C248,T0253,02-06-2025,Keyboard,Accessories,2,91.65,183.30,Cash,North
+C031,T0254,15-04-2025,Headphones,Electronics,1,117.48,117.48,UPI,South
+C161,T0255,26-06-2025,Blender,Home,1,148.68,148.68,Cash,South
+C190,T0256,27-08-2025,Sneakers,Footwear,1,81.91,81.91,Credit Card,East
+C231,T0257,16-07-2025,Keyboard,Accessories,1,34.55,34.55,Cash,South
+C082,T0258,08-04-2025,Backpack,Accessories,3,94.90,284.70,Debit Card,West
+C264,T0259,12-01-2025,Jeans,Clothing,1,48.51,48.51,Credit Card,West
+C259,T0260,30-06-2025,Jeans,Clothing,3,42.91,128.73,Credit Card,North
+C145,T0261,11-12-2025,Jeans,Clothing,1,80.57,80.57,Cash,East
+C275,T0262,16-05-2025,Laptop,Electronics,2,858.56,1717.12,UPI,West
+C188,T0263,10-04-2025,Laptop,Electronics,1,942.17,942.17,UPI,East
+C038,T0264,24-05-2025,T-Shirt,Clothing,1,41.75,41.75,Credit Card,South
+C050,T0265,13-10-2025,T-Shirt,Clothing,1,49.54,49.54,UPI,South
+C102,T0266,24-01-2025,Jacket,Clothing,1,115.01,115.01,Credit Card,South
+C171,T0267,21-09-2025,Jeans,Clothing,1,38.94,38.94,Debit Card,East
+C164,T0268,03-06-2025,Headphones,Electronics,1,138.64,138.64,UPI,West
+C154,T0269,11-12-2025,Jeans,Clothing,2,52.10,104.20,Credit Card,West
+C158,T0270,02-11-2025,Blender,Home,2,109.22,218.44,Cash,East
+C117,T0271,26-09-2025,Blender,Home,1,92.85,92.85,Cash,South
+C125,T0272,08-04-2025,Laptop,Electronics,1,1020.31,1020.31,Credit Card,West
+C161,T0273,30-07-2025,T-Shirt,Clothing,1,39.17,39.17,Cash,North
+C071,T0274,06-12-2025,Sneakers,Footwear,1,82.50,82.50,Cash,West
+C161,T0275,07-10-2025,Headphones,Electronics,1,125.30,125.30,UPI,East
+C248,T0276,02-06-2025,Keyboard,Accessories,3,55.11,165.33,Debit Card,East
+C148,T0277,12-06-2025,Blender,Home,1,117.55,117.55,Cash,East
+C141,T0278,14-07-2025,Mouse,Accessories,1,58.98,58.98,Cash,East
+C075,T0279,10-02-2025,Mouse,Accessories,1,77.10,77.10,UPI,West
+C132,T0280,03-10-2025,Blender,Home,1,62.23,62.23,UPI,East
+C071,T0281,05-05-2025,Smartphone,Electronics,1,652.10,652.10,Credit Card,South
+C120,T0282,30-08-2025,Laptop,Electronics,1,798.18,798.18,Credit Card,South
+C003,T0283,01-12-2025,Sneakers,Footwear,3,65.79,197.37,Cash,West
+C103,T0284,15-02-2025,Mouse,Accessories,1,56.98,56.98,Debit Card,North
+C090,T0285,19-01-2025,T-Shirt,Clothing,2,21.15,42.30,Cash,West
+C096,T0286,20-01-2025,Blender,Home,3,141.86,425.58,Credit Card,East
+C055,T0287,06-10-2025,Backpack,Accessories,1,119.02,119.02,Cash,South
+C259,T0288,19-06-2025,Jeans,Clothing,1,78.53,78.53,Debit Card,West
+C132,T0289,01-06-2025,Blender,Home,1,121.03,121.03,Debit Card,South
+C208,T0290,09-12-2025,T-Shirt,Clothing,1,18.04,18.04,Credit Card,South
+C072,T0291,14-05-2025,Jeans,Clothing,1,44.88,44.88,Cash,South
+C229,T0292,21-10-2025,Mouse,Accessories,3,34.63,103.89,Credit Card,East
+C185,T0293,27-08-2025,Blender,Home,1,113.46,113.46,UPI,South
+C208,T0294,27-12-2025,Coffee Maker,Home,1,166.37,166.37,UPI,North
+C152,T0295,10-03-2025,Backpack,Accessories,1,49.72,49.72,Cash,South
+C233,T0296,26-12-2025,Blender,Home,4,81.10,324.40,Cash,South
+C127,T0297,11-02-2025,Coffee Maker,Home,2,163.51,327.02,Cash,East
+C040,T0298,16-09-2025,Jacket,Clothing,1,157.74,157.74,Debit Card,South
+C085,T0299,15-12-2025,Backpack,Accessories,2,69.77,139.54,Debit Card,West
+C047,T0300,09-03-2025,Sneakers,Footwear,1,55.56,55.56,Cash,West
+C030,T0301,12-01-2025,Sneakers,Footwear,1,130.69,130.69,Cash,East
+C002,T0302,05-08-2025,Blender,Home,1,48.03,48.03,UPI,North
+C278,T0303,30-08-2025,Laptop,Electronics,3,641.41,1924.23,Credit Card,East
+C210,T0304,27-11-2025,Headphones,Electronics,2,162.53,325.06,Cash,East
+C196,T0305,12-07-2025,Jeans,Clothing,2,84.41,168.82,Credit Card,South
+C179,T0306,28-09-2025,Smartphone,Electronics,1,622.36,622.36,Debit Card,South
+C002,T0307,06-10-2025,Laptop,Electronics,3,877.80,2633.40,Cash,West
+C118,T0308,07-04-2025,Keyboard,Accessories,1,43.96,43.96,Credit Card,North
+C215,T0309,09-01-2025,Jacket,Clothing,2,164.89,329.78,Debit Card,South
+C035,T0310,11-12-2025,Smartphone,Electronics,1,567.86,567.86,Credit Card,South
+C023,T0311,29-01-2025,T-Shirt,Clothing,1,33.89,33.89,Debit Card,East
+C120,T0312,11-12-2025,Blender,Home,1,103.52,103.52,UPI,South
+C155,T0313,31-07-2025,Headphones,Electronics,4,123.40,493.60,UPI,East
+C032,T0314,31-03-2025,Sneakers,Footwear,3,137.97,413.91,Cash,West
+C025,T0315,26-09-2025,Backpack,Accessories,3,90.42,271.26,UPI,West
+C210,T0316,03-10-2025,Headphones,Electronics,1,69.42,69.42,Cash,South
+C116,T0317,26-08-2025,Mouse,Accessories,2,24.38,48.76,Credit Card,West
+C214,T0318,11-05-2025,Sneakers,Footwear,1,88.84,88.84,Debit Card,East
+C041,T0319,08-04-2025,Jeans,Clothing,2,35.55,71.10,Credit Card,East
+C194,T0320,07-02-2025,Coffee Maker,Home,1,55.14,55.14,Debit Card,South
+C246,T0321,08-01-2025,Keyboard,Accessories,2,59.97,119.94,Debit Card,South
+C061,T0322,05-05-2025,Blender,Home,4,92.68,370.72,Debit Card,West
+C123,T0323,27-08-2025,Sneakers,Footwear,1,78.31,78.31,UPI,East
+C134,T0324,20-02-2025,Backpack,Accessories,1,74.75,74.75,Cash,East
+C105,T0325,24-04-2025,Backpack,Accessories,1,34.11,34.11,Debit Card,North
+C134,T0326,02-08-2025,Sneakers,Footwear,3,107.91,323.73,UPI,South
+C101,T0327,06-05-2025,Backpack,Accessories,1,81.28,81.28,Cash,East
+C132,T0328,09-09-2025,Jeans,Clothing,3,68.50,205.50,Cash,South
+C181,T0329,05-04-2025,Headphones,Electronics,1,127.45,127.45,Credit Card,North
+C039,T0330,12-03-2025,Coffee Maker,Home,1,50.83,50.83,Debit Card,North
+C078,T0331,31-01-2025,Laptop,Electronics,1,873.61,873.61,Cash,West
+C009,T0332,09-01-2025,Laptop,Electronics,1,846.80,846.80,UPI,East
+C009,T0333,02-04-2025,Sneakers,Footwear,2,117.40,234.80,Credit Card,North
+C269,T0334,10-05-2025,Headphones,Electronics,1,139.16,139.16,UPI,East
+C204,T0335,17-10-2025,Smartphone,Electronics,1,543.62,543.62,Debit Card,South
+C154,T0336,29-11-2025,Coffee Maker,Home,2,60.48,120.96,Credit Card,North
+C208,T0337,23-11-2025,T-Shirt,Clothing,1,31.66,31.66,Credit Card,South
+C043,T0338,19-06-2025,Jeans,Clothing,2,68.69,137.38,Credit Card,North
+C118,T0339,18-10-2025,Keyboard,Accessories,3,92.31,276.93,Cash,East
+C024,T0340,06-10-2025,Smartphone,Electronics,1,468.22,468.22,Credit Card,South
+C162,T0341,31-12-2025,Laptop,Electronics,3,952.22,2856.66,Cash,North
+C154,T0342,19-07-2025,Headphones,Electronics,1,130.67,130.67,UPI,West
+C072,T0343,27-06-2025,Blender,Home,2,95.09,190.18,Credit Card,North
+C224,T0344,11-11-2025,Keyboard,Accessories,2,60.65,121.30,Cash,East
+C016,T0345,09-09-2025,Coffee Maker,Home,1,179.04,179.04,Debit Card,East
+C193,T0346,14-07-2025,T-Shirt,Clothing,1,35.51,35.51,Credit Card,East
+C127,T0347,14-07-2025,Blender,Home,1,69.48,69.48,Debit Card,West
+C163,T0348,07-06-2025,Backpack,Accessories,1,30.47,30.47,Cash,East
+C139,T0349,18-08-2025,Smartphone,Electronics,1,412.44,412.44,Cash,North
+C014,T0350,03-11-2025,Smartphone,Electronics,1,355.84,355.84,UPI,West
+C007,T0351,14-10-2025,Mouse,Accessories,1,65.65,65.65,Debit Card,South
+C195,T0352,10-09-2025,Headphones,Electronics,1,88.18,88.18,Debit Card,North
+C086,T0353,09-02-2025,T-Shirt,Clothing,1,25.49,25.49,UPI,East
+C127,T0354,11-04-2025,Blender,Home,1,105.32,105.32,Cash,North
+C070,T0355,14-11-2025,Mouse,Accessories,1,40.72,40.72,Cash,East
+C226,T0356,30-11-2025,Backpack,Accessories,1,104.12,104.12,Debit Card,East
+C165,T0357,10-06-2025,Jacket,Clothing,3,76.11,228.33,Debit Card,West
+C164,T0358,22-10-2025,Mouse,Accessories,2,56.14,112.28,Debit Card,East
+C193,T0359,28-02-2025,Mouse,Accessories,2,40.54,81.08,Debit Card,South
+C014,T0360,13-08-2025,Blender,Home,1,117.92,117.92,UPI,North
+C210,T0361,04-05-2025,Coffee Maker,Home,1,132.33,132.33,UPI,South
+C217,T0362,03-09-2025,T-Shirt,Clothing,1,49.67,49.67,Cash,West
+C279,T0363,02-10-2025,Laptop,Electronics,2,815.72,1631.44,Credit Card,North
+C128,T0364,10-11-2025,Coffee Maker,Home,1,71.62,71.62,Credit Card,West
+C170,T0365,24-04-2025,T-Shirt,Clothing,1,18.45,18.45,Debit Card,West
+C192,T0366,20-12-2025,T-Shirt,Clothing,1,38.78,38.78,Debit Card,East
+C013,T0367,13-02-2025,Jeans,Clothing,1,54.96,54.96,Credit Card,South
+C179,T0368,24-09-2025,Mouse,Accessories,1,65.98,65.98,Cash,East
+C244,T0369,13-06-2025,Smartphone,Electronics,1,718.06,718.06,Credit Card,East
+C023,T0370,28-11-2025,Blender,Home,1,133.41,133.41,Credit Card,South
+C125,T0371,14-10-2025,Sneakers,Footwear,1,66.01,66.01,Cash,West
+C119,T0372,03-12-2025,T-Shirt,Clothing,1,21.52,21.52,Cash,West
+C015,T0373,31-10-2025,Blender,Home,1,61.71,61.71,Cash,West
+C003,T0374,27-12-2025,Blender,Home,1,70.62,70.62,Credit Card,North
+C275,T0375,28-02-2025,Headphones,Electronics,1,71.53,71.53,UPI,West
+C271,T0376,20-07-2025,Coffee Maker,Home,1,100.52,100.52,Credit Card,East
+C181,T0377,28-12-2025,Jeans,Clothing,1,78.82,78.82,UPI,North
+C069,T0378,04-04-2025,Backpack,Accessories,1,57.48,57.48,UPI,South
+C262,T0379,16-07-2025,T-Shirt,Clothing,1,19.83,19.83,Cash,South
+C250,T0380,30-03-2025,Coffee Maker,Home,1,169.49,169.49,Debit Card,West
+C148,T0381,14-11-2025,Headphones,Electronics,1,174.72,174.72,Credit Card,East
+C005,T0382,15-10-2025,Jeans,Clothing,1,78.91,78.91,Cash,West
+C252,T0383,27-03-2025,T-Shirt,Clothing,2,30.53,61.06,Credit Card,North
+C113,T0384,28-05-2025,Mouse,Accessories,1,29.61,29.61,Debit Card,West
+C254,T0385,18-05-2025,Sneakers,Footwear,1,107.27,107.27,UPI,North
+C226,T0386,01-12-2025,Sneakers,Footwear,1,92.52,92.52,Debit Card,East
+C017,T0387,14-02-2025,Jeans,Clothing,1,81.73,81.73,Cash,North
+C122,T0388,29-06-2025,Keyboard,Accessories,2,82.91,165.82,Cash,South
+C072,T0389,19-10-2025,Keyboard,Accessories,2,102.49,204.98,UPI,East
+C276,T0390,29-05-2025,Headphones,Electronics,1,152.65,152.65,UPI,North
+C070,T0391,02-12-2025,T-Shirt,Clothing,3,49.74,149.22,Debit Card,South
+C128,T0392,13-12-2025,Headphones,Electronics,2,172.56,345.12,Cash,West
+C073,T0393,12-07-2025,Jacket,Clothing,1,131.62,131.62,Cash,North
+C048,T0394,08-07-2025,T-Shirt,Clothing,1,24.74,24.74,Cash,West
+C168,T0395,17-02-2025,Jacket,Clothing,1,150.64,150.64,Cash,East
+C033,T0396,19-04-2025,Sneakers,Footwear,1,146.81,146.81,Cash,East
+C166,T0397,17-10-2025,Mouse,Accessories,1,52.57,52.57,Cash,East
+C025,T0398,24-08-2025,Laptop,Electronics,1,1070.33,1070.33,Credit Card,North
+C081,T0399,08-08-2025,Jeans,Clothing,1,89.51,89.51,Debit Card,South
+C155,T0400,17-02-2025,Headphones,Electronics,2,180.26,360.52,UPI,East
+C043,T0401,27-01-2025,Backpack,Accessories,1,88.40,88.40,Cash,East
+C120,T0402,01-01-2025,T-Shirt,Clothing,1,39.63,39.63,Debit Card,West
+C040,T0403,16-08-2025,Headphones,Electronics,1,123.11,123.11,Credit Card,North
+C176,T0404,09-03-2025,Smartphone,Electronics,4,553.39,2213.56,Cash,North
+C118,T0405,22-02-2025,T-Shirt,Clothing,1,43.21,43.21,UPI,East
+C154,T0406,10-03-2025,Headphones,Electronics,1,170.14,170.14,Debit Card,North
+C272,T0407,14-08-2025,Jacket,Clothing,1,134.50,134.50,UPI,South
+C078,T0408,22-04-2025,T-Shirt,Clothing,1,30.48,30.48,Credit Card,North
+C072,T0409,08-08-2025,Smartphone,Electronics,1,530.42,530.42,UPI,South
+C127,T0410,04-11-2025,Mouse,Accessories,1,31.13,31.13,UPI,North
+C155,T0411,20-07-2025,Keyboard,Accessories,1,75.86,75.86,UPI,North
+C123,T0412,23-11-2025,Jeans,Clothing,1,44.46,44.46,Credit Card,North
+C185,T0413,19-10-2025,Backpack,Accessories,1,107.47,107.47,Cash,East
+C280,T0414,07-02-2025,Coffee Maker,Home,1,111.23,111.23,Credit Card,North
+C008,T0415,23-07-2025,Mouse,Accessories,1,74.97,74.97,UPI,West
+C217,T0416,03-10-2025,Blender,Home,1,110.46,110.46,Debit Card,East
+C043,T0417,21-03-2025,Mouse,Accessories,1,74.86,74.86,UPI,West
+C034,T0418,03-05-2025,Mouse,Accessories,1,62.45,62.45,Credit Card,South
+C045,T0419,29-01-2025,T-Shirt,Clothing,1,36.43,36.43,UPI,South
+C062,T0420,25-03-2025,Laptop,Electronics,2,1020.90,2041.80,Cash,East
+C268,T0421,27-03-2025,Sneakers,Footwear,2,122.08,244.16,UPI,South
+C138,T0422,16-01-2025,Blender,Home,2,124.86,249.72,UPI,West
+C140,T0423,23-10-2025,Sneakers,Footwear,1,121.23,121.23,Credit Card,West
+C234,T0424,18-10-2025,Sneakers,Footwear,1,99.96,99.96,Debit Card,East
+C081,T0425,12-12-2025,Mouse,Accessories,2,73.13,146.26,Credit Card,South
+C261,T0426,06-05-2025,Laptop,Electronics,1,1117.76,1117.76,Credit Card,West
+C187,T0427,19-01-2025,T-Shirt,Clothing,3,21.26,63.78,Cash,South
+C165,T0428,19-05-2025,Keyboard,Accessories,1,94.83,94.83,Credit Card,East
+C062,T0429,25-04-2025,Sneakers,Footwear,1,55.27,55.27,Credit Card,West
+C036,T0430,09-06-2025,Jeans,Clothing,2,76.41,152.82,UPI,North
+C234,T0431,05-06-2025,Laptop,Electronics,1,774.96,774.96,Debit Card,West
+C189,T0432,11-04-2025,Jacket,Clothing,3,179.71,539.13,Debit Card,South
+C004,T0433,22-11-2025,T-Shirt,Clothing,1,33.95,33.95,Credit Card,East
+C001,T0434,07-06-2025,Coffee Maker,Home,1,145.95,145.95,Credit Card,South
+C272,T0435,14-03-2025,Keyboard,Accessories,1,116.51,116.51,UPI,North
+C023,T0436,25-12-2025,Keyboard,Accessories,2,76.78,153.56,UPI,West
+C044,T0437,21-07-2025,Jacket,Clothing,1,67.36,67.36,Credit Card,North
+C223,T0438,14-05-2025,Coffee Maker,Home,3,80.78,242.34,UPI,West
+C168,T0439,14-04-2025,Backpack,Accessories,1,51.03,51.03,Debit Card,North
+C080,T0440,28-07-2025,Smartphone,Electronics,1,579.63,579.63,Credit Card,East
+C107,T0441,03-03-2025,Jeans,Clothing,1,45.90,45.90,Credit Card,South
+C156,T0442,17-06-2025,Blender,Home,1,44.44,44.44,Debit Card,North
+C128,T0443,03-06-2025,Backpack,Accessories,1,34.41,34.41,UPI,South
+C016,T0444,09-10-2025,T-Shirt,Clothing,2,34.46,68.92,Debit Card,North
+C237,T0445,07-01-2025,Smartphone,Electronics,2,383.88,767.76,Credit Card,South
+C067,T0446,19-11-2025,Keyboard,Accessories,2,63.50,127.00,Credit Card,East
+C039,T0447,27-11-2025,Laptop,Electronics,4,718.65,2874.60,Cash,South
+C048,T0448,26-01-2025,Backpack,Accessories,1,114.81,114.81,Debit Card,West
+C203,T0449,30-03-2025,Jeans,Clothing,1,70.99,70.99,UPI,South
+C096,T0450,18-01-2025,Mouse,Accessories,1,72.42,72.42,Debit Card,East
+C256,T0451,14-02-2025,T-Shirt,Clothing,2,31.77,63.54,UPI,West
+C071,T0452,27-09-2025,T-Shirt,Clothing,1,45.96,45.96,Debit Card,North
+C196,T0453,06-09-2025,Blender,Home,1,99.90,99.90,UPI,East
+C199,T0454,23-04-2025,Mouse,Accessories,1,35.73,35.73,Credit Card,East
+C030,T0455,30-04-2025,Jeans,Clothing,1,76.01,76.01,Debit Card,North
+C127,T0456,29-01-2025,Coffee Maker,Home,1,119.38,119.38,Debit Card,West
+C182,T0457,24-12-2025,Headphones,Electronics,1,134.80,134.80,UPI,North
+C181,T0458,07-04-2025,Jacket,Clothing,1,123.20,123.20,Cash,East
+C090,T0459,05-11-2025,Jeans,Clothing,1,33.37,33.37,Debit Card,North
+C270,T0460,14-04-2025,Jeans,Clothing,1,85.07,85.07,Debit Card,East
+C091,T0461,27-12-2025,Backpack,Accessories,1,43.29,43.29,Debit Card,North
+C270,T0462,06-12-2025,Backpack,Accessories,3,63.62,190.86,Cash,North
+C173,T0463,12-08-2025,Mouse,Accessories,1,78.43,78.43,Cash,East
+C090,T0464,11-11-2025,Blender,Home,3,116.29,348.87,UPI,South
+C090,T0465,07-03-2025,T-Shirt,Clothing,1,39.10,39.10,Debit Card,North
+C201,T0466,10-11-2025,Jacket,Clothing,1,128.31,128.31,Debit Card,North
+C255,T0467,27-06-2025,Headphones,Electronics,1,52.45,52.45,UPI,South
+C046,T0468,21-06-2025,Blender,Home,1,120.22,120.22,Cash,North
+C136,T0469,12-05-2025,Keyboard,Accessories,1,36.10,36.10,Credit Card,North
+C025,T0470,27-03-2025,T-Shirt,Clothing,1,29.69,29.69,Cash,West
+C194,T0471,03-09-2025,Backpack,Accessories,1,39.13,39.13,Debit Card,South
+C232,T0472,11-01-2025,Smartphone,Electronics,2,320.05,640.10,UPI,East
+C054,T0473,24-03-2025,Smartphone,Electronics,1,832.76,832.76,Credit Card,North
+C174,T0474,27-12-2025,Jacket,Clothing,4,166.12,664.48,Credit Card,West
+C085,T0475,21-02-2025,Jacket,Clothing,2,70.42,140.84,UPI,South
+C098,T0476,04-10-2025,T-Shirt,Clothing,1,40.27,40.27,UPI,East
+C153,T0477,09-10-2025,Keyboard,Accessories,1,65.36,65.36,Cash,South
+C028,T0478,05-12-2025,Backpack,Accessories,1,37.89,37.89,Cash,South
+C050,T0479,11-02-2025,Laptop,Electronics,1,982.91,982.91,Cash,North
+C158,T0480,16-05-2025,T-Shirt,Clothing,1,46.32,46.32,Credit Card,West
+C095,T0481,17-08-2025,Backpack,Accessories,2,63.25,126.50,Credit Card,East
+C226,T0482,16-10-2025,Jeans,Clothing,1,80.22,80.22,Credit Card,South
+C050,T0483,31-07-2025,Smartphone,Electronics,1,784.91,784.91,Debit Card,North
+C199,T0484,01-09-2025,Sneakers,Footwear,1,103.55,103.55,Debit Card,West
+C154,T0485,18-01-2025,Smartphone,Electronics,1,812.36,812.36,Debit Card,North
+C230,T0486,19-04-2025,Headphones,Electronics,3,66.75,200.25,Debit Card,South
+C022,T0487,14-04-2025,T-Shirt,Clothing,1,38.91,38.91,Debit Card,East
+C164,T0488,18-07-2025,Blender,Home,3,47.37,142.11,Cash,East
+C142,T0489,25-12-2025,Sneakers,Footwear,1,137.35,137.35,Cash,North
+C213,T0490,21-02-2025,Headphones,Electronics,1,134.07,134.07,Credit Card,North
+C147,T0491,16-05-2025,Sneakers,Footwear,2,137.79,275.58,Cash,West
+C243,T0492,13-11-2025,Laptop,Electronics,1,841.78,841.78,Cash,North
+C203,T0493,01-09-2025,Backpack,Accessories,1,34.44,34.44,UPI,East
+C011,T0494,24-05-2025,Backpack,Accessories,2,57.27,114.54,Cash,North
+C117,T0495,14-06-2025,Headphones,Electronics,1,159.00,159.00,UPI,West
+C046,T0496,28-07-2025,Keyboard,Accessories,1,112.21,112.21,Cash,East
+C029,T0497,30-12-2025,Sneakers,Footwear,2,56.56,113.12,Cash,South
+C269,T0498,13-04-2025,Jacket,Clothing,1,75.06,75.06,Credit Card,South
+C017,T0499,12-04-2025,Jeans,Clothing,1,51.62,51.62,UPI,East
+C238,T0500,15-12-2025,Sneakers,Footwear,1,142.31,142.31,Credit Card,South
+C191,T0501,31-08-2025,Jeans,Clothing,1,40.66,40.66,UPI,East
+C084,T0502,26-05-2025,Mouse,Accessories,2,59.78,119.56,Credit Card,West
+C026,T0503,20-04-2025,Headphones,Electronics,2,164.77,329.54,Debit Card,South
+C106,T0504,16-12-2025,Mouse,Accessories,1,48.36,48.36,Credit Card,West
+C068,T0505,25-04-2025,Coffee Maker,Home,1,154.11,154.11,UPI,East
+C141,T0506,24-08-2025,T-Shirt,Clothing,2,44.81,89.62,UPI,South
+C239,T0507,23-07-2025,Mouse,Accessories,1,68.58,68.58,Credit Card,North
+C262,T0508,15-10-2025,Coffee Maker,Home,3,159.12,477.36,UPI,East
+C056,T0509,24-11-2025,Jeans,Clothing,1,89.30,89.30,UPI,East
+C134,T0510,02-06-2025,Coffee Maker,Home,2,166.01,332.02,Debit Card,South
+C265,T0511,04-11-2025,Keyboard,Accessories,2,102.49,204.98,Cash,East
+C072,T0512,01-06-2025,Blender,Home,1,94.71,94.71,UPI,West
+C208,T0513,20-10-2025,T-Shirt,Clothing,2,35.41,70.82,Debit Card,East
+C114,T0514,10-12-2025,Coffee Maker,Home,1,152.04,152.04,UPI,East
+C088,T0515,19-02-2025,Coffee Maker,Home,2,73.55,147.10,Cash,South
+C133,T0516,04-04-2025,Blender,Home,2,123.92,247.84,UPI,North
+C114,T0517,04-08-2025,Backpack,Accessories,1,108.43,108.43,UPI,East
+C134,T0518,29-08-2025,Jacket,Clothing,1,160.66,160.66,Credit Card,North
+C242,T0519,15-07-2025,Keyboard,Accessories,1,108.07,108.07,UPI,West
+C028,T0520,29-07-2025,Headphones,Electronics,1,72.05,72.05,Cash,South
+C162,T0521,20-06-2025,Blender,Home,1,48.89,48.89,Debit Card,East
+C030,T0522,28-03-2025,Laptop,Electronics,1,725.63,725.63,Debit Card,West
+C046,T0523,26-07-2025,Headphones,Electronics,1,141.36,141.36,Cash,West
+C197,T0524,11-07-2025,Laptop,Electronics,1,719.65,719.65,Credit Card,East
+C272,T0525,08-05-2025,Keyboard,Accessories,1,30.37,30.37,Debit Card,East
+C160,T0526,06-06-2025,Headphones,Electronics,1,120.53,120.53,Debit Card,North
+C024,T0527,24-09-2025,Mouse,Accessories,3,44.64,133.92,UPI,West
+C069,T0528,07-04-2025,Backpack,Accessories,4,74.12,296.48,Debit Card,West
+C010,T0529,19-04-2025,Keyboard,Accessories,1,118.64,118.64,Credit Card,South
+C064,T0530,12-07-2025,Backpack,Accessories,2,101.29,202.58,UPI,North
+C025,T0531,25-01-2025,Coffee Maker,Home,1,158.70,158.70,Credit Card,West
+C228,T0532,26-12-2025,T-Shirt,Clothing,1,23.85,23.85,Debit Card,South
+C005,T0533,24-09-2025,Mouse,Accessories,1,21.56,21.56,UPI,South
+C215,T0534,25-05-2025,Smartphone,Electronics,1,670.62,670.62,Credit Card,North
+C255,T0535,25-09-2025,Keyboard,Accessories,1,100.02,100.02,Debit Card,East
+C210,T0536,17-04-2025,Mouse,Accessories,1,50.63,50.63,Cash,East
+C121,T0537,26-02-2025,Laptop,Electronics,1,653.40,653.40,Cash,South
+C047,T0538,12-05-2025,Sneakers,Footwear,1,122.36,122.36,Debit Card,West
+C152,T0539,31-03-2025,Mouse,Accessories,1,21.49,21.49,Credit Card,East
+C185,T0540,18-02-2025,Coffee Maker,Home,1,146.01,146.01,Credit Card,North
+C071,T0541,13-08-2025,Coffee Maker,Home,1,92.73,92.73,UPI,North
+C191,T0542,22-08-2025,Backpack,Accessories,1,66.07,66.07,UPI,West
+C245,T0543,27-02-2025,T-Shirt,Clothing,1,42.89,42.89,Debit Card,North
+C082,T0544,19-10-2025,Smartphone,Electronics,1,654.45,654.45,Cash,South
+C195,T0545,08-03-2025,Backpack,Accessories,1,107.63,107.63,Cash,West
+C058,T0546,02-12-2025,T-Shirt,Clothing,1,17.22,17.22,UPI,North
+C269,T0547,09-12-2025,Blender,Home,1,102.15,102.15,UPI,North
+C222,T0548,06-12-2025,Coffee Maker,Home,2,112.65,225.30,Cash,South
+C028,T0549,29-08-2025,Laptop,Electronics,1,694.16,694.16,Cash,South
+C039,T0550,23-05-2025,Jeans,Clothing,1,49.85,49.85,Credit Card,South
+C194,T0551,16-08-2025,T-Shirt,Clothing,2,17.76,35.52,Cash,North
+C256,T0552,01-12-2025,Jeans,Clothing,1,88.84,88.84,Credit Card,North
+C207,T0553,16-02-2025,T-Shirt,Clothing,1,34.22,34.22,UPI,South
+C234,T0554,25-04-2025,Backpack,Accessories,1,34.88,34.88,Cash,East
+C243,T0555,28-02-2025,Blender,Home,1,118.75,118.75,Credit Card,South
+C002,T0556,30-05-2025,Backpack,Accessories,1,87.03,87.03,UPI,North
+C024,T0557,29-07-2025,Headphones,Electronics,1,171.49,171.49,Credit Card,East
+C101,T0558,21-04-2025,Keyboard,Accessories,1,106.70,106.70,Cash,South
+C174,T0559,21-11-2025,Smartphone,Electronics,2,327.90,655.80,Credit Card,West
+C235,T0560,13-09-2025,Coffee Maker,Home,1,115.55,115.55,Credit Card,North
+C222,T0561,01-04-2025,Jacket,Clothing,1,116.08,116.08,Debit Card,South
+C054,T0562,14-06-2025,T-Shirt,Clothing,1,36.22,36.22,Cash,West
+C128,T0563,31-05-2025,Mouse,Accessories,1,37.29,37.29,Cash,South
+C071,T0564,20-09-2025,T-Shirt,Clothing,1,46.03,46.03,UPI,East
+C112,T0565,18-12-2025,Keyboard,Accessories,1,94.29,94.29,UPI,South
+C092,T0566,30-12-2025,Sneakers,Footwear,1,113.69,113.69,Credit Card,East
+C246,T0567,02-08-2025,Jacket,Clothing,1,136.73,136.73,UPI,West
+C007,T0568,28-01-2025,Sneakers,Footwear,1,88.09,88.09,Credit Card,South
+C137,T0569,16-03-2025,Headphones,Electronics,4,149.34,597.36,Credit Card,East
+C105,T0570,22-02-2025,Sneakers,Footwear,1,131.40,131.40,Debit Card,West
+C122,T0571,28-05-2025,Sneakers,Footwear,2,129.88,259.76,Credit Card,West
+C199,T0572,10-06-2025,T-Shirt,Clothing,3,49.15,147.45,Credit Card,North
+C129,T0573,15-08-2025,Keyboard,Accessories,1,100.28,100.28,Debit Card,East
+C280,T0574,10-04-2025,Blender,Home,1,125.38,125.38,UPI,West
+C091,T0575,21-09-2025,Coffee Maker,Home,1,175.12,175.12,Credit Card,West
+C021,T0576,24-03-2025,T-Shirt,Clothing,1,24.25,24.25,UPI,North
+C170,T0577,20-03-2025,Jeans,Clothing,2,39.29,78.58,UPI,North
+C155,T0578,07-02-2025,Jeans,Clothing,2,63.01,126.02,UPI,South
+C095,T0579,01-08-2025,Sneakers,Footwear,1,100.51,100.51,Cash,North
+C179,T0580,19-06-2025,Keyboard,Accessories,2,89.70,179.40,UPI,East
+C112,T0581,29-11-2025,Jacket,Clothing,1,179.56,179.56,Credit Card,North
+C178,T0582,15-11-2025,Jeans,Clothing,1,68.54,68.54,Debit Card,North
+C165,T0583,17-07-2025,T-Shirt,Clothing,3,48.07,144.21,UPI,East
+C013,T0584,18-09-2025,Sneakers,Footwear,2,87.50,175.00,Cash,West
+C023,T0585,21-09-2025,Mouse,Accessories,2,27.51,55.02,Credit Card,North
+C086,T0586,18-04-2025,Sneakers,Footwear,1,112.69,112.69,Debit Card,West
+C054,T0587,11-08-2025,Keyboard,Accessories,1,93.25,93.25,Credit Card,South
+C013,T0588,07-02-2025,Jeans,Clothing,2,32.27,64.54,Credit Card,South
+C129,T0589,13-05-2025,Sneakers,Footwear,1,132.16,132.16,Cash,West
+C231,T0590,19-07-2025,Coffee Maker,Home,1,91.13,91.13,Credit Card,North
+C033,T0591,07-02-2025,Blender,Home,1,117.10,117.10,UPI,North
+C149,T0592,13-08-2025,Coffee Maker,Home,1,61.25,61.25,Cash,West
+C016,T0593,20-07-2025,Jeans,Clothing,1,43.19,43.19,UPI,South
+C153,T0594,28-11-2025,Coffee Maker,Home,2,175.50,351.00,UPI,North
+C073,T0595,21-07-2025,Smartphone,Electronics,1,643.63,643.63,Credit Card,East
+C108,T0596,19-04-2025,Blender,Home,2,119.85,239.70,Cash,South
+C083,T0597,10-04-2025,Headphones,Electronics,1,173.56,173.56,Credit Card,South
+C028,T0598,29-05-2025,Sneakers,Footwear,1,104.97,104.97,Credit Card,East
+C051,T0599,19-06-2025,Keyboard,Accessories,2,73.85,147.70,UPI,South
+C121,T0600,10-04-2025,Smartphone,Electronics,1,341.89,341.89,UPI,West
+C231,T0601,27-10-2025,Backpack,Accessories,1,57.51,57.51,Debit Card,East
+C162,T0602,24-04-2025,T-Shirt,Clothing,1,25.96,25.96,Cash,East
+C185,T0603,03-09-2025,Headphones,Electronics,1,93.05,93.05,Cash,West
+C184,T0604,27-11-2025,Mouse,Accessories,1,22.07,22.07,Credit Card,East
+C072,T0605,17-11-2025,Sneakers,Footwear,1,123.35,123.35,Credit Card,North
+C010,T0606,24-10-2025,Sneakers,Footwear,1,131.26,131.26,Cash,South
+C019,T0607,04-10-2025,Sneakers,Footwear,1,139.40,139.40,Cash,South
+C188,T0608,29-05-2025,T-Shirt,Clothing,1,42.03,42.03,Debit Card,West
+C257,T0609,06-01-2025,Sneakers,Footwear,1,86.39,86.39,Debit Card,South
+C264,T0610,17-10-2025,Headphones,Electronics,1,68.66,68.66,Debit Card,West
+C184,T0611,02-02-2025,Laptop,Electronics,1,892.59,892.59,UPI,East
+C120,T0612,04-07-2025,Laptop,Electronics,1,910.73,910.73,Cash,West
+C233,T0613,22-02-2025,Laptop,Electronics,1,989.11,989.11,UPI,East
+C279,T0614,07-07-2025,Jacket,Clothing,1,134.98,134.98,Credit Card,East
+C193,T0615,26-06-2025,Keyboard,Accessories,1,61.76,61.76,Cash,West
+C004,T0616,28-04-2025,Sneakers,Footwear,2,93.99,187.98,Credit Card,East
+C109,T0617,02-03-2025,Headphones,Electronics,1,97.96,97.96,Debit Card,West
+C170,T0618,03-09-2025,Blender,Home,1,114.28,114.28,Debit Card,South
+C211,T0619,31-10-2025,Laptop,Electronics,1,676.73,676.73,Debit Card,South
+C263,T0620,27-03-2025,Laptop,Electronics,2,688.12,1376.24,UPI,South
+C265,T0621,10-01-2025,T-Shirt,Clothing,1,34.73,34.73,UPI,North
+C111,T0622,04-09-2025,Jeans,Clothing,1,58.28,58.28,Debit Card,South
+C211,T0623,04-04-2025,Jacket,Clothing,1,125.74,125.74,UPI,South
+C176,T0624,13-07-2025,Jeans,Clothing,1,34.13,34.13,Cash,South
+C056,T0625,16-09-2025,Laptop,Electronics,1,1115.76,1115.76,Cash,South
+C050,T0626,20-01-2025,Headphones,Electronics,1,138.36,138.36,Credit Card,North
+C247,T0627,01-01-2025,Coffee Maker,Home,1,128.45,128.45,Cash,West
+C190,T0628,04-09-2025,Laptop,Electronics,1,857.37,857.37,Cash,East
+C051,T0629,30-04-2025,T-Shirt,Clothing,1,31.70,31.70,Credit Card,East
+C279,T0630,04-01-2025,T-Shirt,Clothing,1,15.19,15.19,Credit Card,North
+C193,T0631,29-07-2025,Coffee Maker,Home,1,154.56,154.56,UPI,North
+C080,T0632,02-10-2025,T-Shirt,Clothing,1,23.88,23.88,Cash,East
+C142,T0633,10-10-2025,Coffee Maker,Home,1,76.48,76.48,Cash,South
+C190,T0634,07-06-2025,Sneakers,Footwear,1,75.38,75.38,UPI,West
+C071,T0635,25-12-2025,Coffee Maker,Home,1,79.87,79.87,Debit Card,North
+C110,T0636,09-10-2025,Sneakers,Footwear,1,83.84,83.84,Credit Card,South
+C200,T0637,16-03-2025,Coffee Maker,Home,1,61.84,61.84,Cash,West
+C046,T0638,08-11-2025,Smartphone,Electronics,1,522.50,522.50,Credit Card,West
+C206,T0639,02-11-2025,Jacket,Clothing,1,87.24,87.24,Credit Card,South
+C254,T0640,23-09-2025,Jeans,Clothing,1,81.03,81.03,UPI,South
+C018,T0641,11-11-2025,Jacket,Clothing,1,140.80,140.80,Debit Card,North
+C185,T0642,14-02-2025,Keyboard,Accessories,1,117.81,117.81,UPI,West
+C181,T0643,23-09-2025,Coffee Maker,Home,1,126.19,126.19,Credit Card,North
+C047,T0644,26-10-2025,Sneakers,Footwear,1,132.98,132.98,UPI,East
+C142,T0645,26-07-2025,Keyboard,Accessories,1,47.51,47.51,Credit Card,East
+C090,T0646,15-09-2025,T-Shirt,Clothing,1,34.55,34.55,UPI,East
+C060,T0647,22-10-2025,Sneakers,Footwear,3,137.61,412.83,UPI,West
+C194,T0648,23-06-2025,Jacket,Clothing,1,81.63,81.63,Cash,West
+C015,T0649,21-11-2025,Jeans,Clothing,1,34.05,34.05,Debit Card,South
+C162,T0650,05-01-2025,T-Shirt,Clothing,3,33.08,99.24,UPI,South
+C148,T0651,25-06-2025,Smartphone,Electronics,1,749.27,749.27,Credit Card,South
+C244,T0652,18-05-2025,Backpack,Accessories,1,110.49,110.49,Debit Card,South
+C256,T0653,16-05-2025,Blender,Home,1,120.90,120.90,Debit Card,South
+C104,T0654,24-02-2025,Keyboard,Accessories,2,62.04,124.08,Credit Card,North
+C253,T0655,22-01-2025,Jacket,Clothing,1,161.42,161.42,Cash,East
+C162,T0656,22-10-2025,Jeans,Clothing,2,82.86,165.72,UPI,West
+C094,T0657,23-10-2025,Sneakers,Footwear,1,72.21,72.21,Debit Card,North
+C270,T0658,15-09-2025,T-Shirt,Clothing,1,33.93,33.93,UPI,West
+C090,T0659,24-08-2025,Jeans,Clothing,3,71.89,215.67,UPI,North
+C007,T0660,16-06-2025,Coffee Maker,Home,1,125.53,125.53,UPI,East
+C096,T0661,10-11-2025,Sneakers,Footwear,1,76.94,76.94,UPI,East
+C095,T0662,10-07-2025,Jeans,Clothing,1,55.15,55.15,UPI,West
+C144,T0663,22-10-2025,Jeans,Clothing,1,37.87,37.87,Debit Card,North
+C139,T0664,11-04-2025,Keyboard,Accessories,1,107.07,107.07,Debit Card,South
+C243,T0665,19-11-2025,Laptop,Electronics,1,899.76,899.76,UPI,West
+C154,T0666,23-07-2025,Mouse,Accessories,1,51.91,51.91,Credit Card,South
+C031,T0667,19-11-2025,Keyboard,Accessories,2,72.89,145.78,Credit Card,West
+C172,T0668,12-05-2025,Mouse,Accessories,1,51.42,51.42,UPI,North
+C211,T0669,07-11-2025,Smartphone,Electronics,1,707.75,707.75,Debit Card,South
+C146,T0670,17-08-2025,Backpack,Accessories,1,75.94,75.94,Credit Card,West
+C147,T0671,27-03-2025,Jeans,Clothing,1,38.69,38.69,UPI,West
+C208,T0672,10-06-2025,Smartphone,Electronics,1,506.18,506.18,UPI,East
+C137,T0673,16-08-2025,Jacket,Clothing,1,85.26,85.26,UPI,West
+C212,T0674,01-05-2025,Headphones,Electronics,1,43.70,43.70,UPI,North
+C108,T0675,31-08-2025,Headphones,Electronics,1,55.29,55.29,Credit Card,North
+C204,T0676,15-05-2025,Sneakers,Footwear,2,58.33,116.66,Debit Card,North
+C200,T0677,15-08-2025,Mouse,Accessories,1,62.94,62.94,Debit Card,South
+C270,T0678,16-06-2025,Headphones,Electronics,1,146.17,146.17,Cash,West
+C277,T0679,24-12-2025,Mouse,Accessories,1,23.78,23.78,Debit Card,West
+C223,T0680,27-06-2025,Sneakers,Footwear,1,103.38,103.38,Cash,South
+C046,T0681,21-03-2025,Jeans,Clothing,1,54.73,54.73,UPI,North
+C001,T0682,26-06-2025,Sneakers,Footwear,2,134.79,269.58,UPI,West
+C274,T0683,02-09-2025,Laptop,Electronics,1,895.16,895.16,UPI,North
+C221,T0684,08-10-2025,Mouse,Accessories,1,66.79,66.79,UPI,South
+C211,T0685,27-11-2025,Sneakers,Footwear,1,74.99,74.99,Cash,West
+C113,T0686,22-09-2025,Mouse,Accessories,1,55.65,55.65,UPI,East
+C273,T0687,04-04-2025,Mouse,Accessories,1,70.48,70.48,Debit Card,East
+C057,T0688,25-12-2025,Coffee Maker,Home,1,108.86,108.86,Cash,South
+C165,T0689,12-01-2025,Laptop,Electronics,1,1181.83,1181.83,Debit Card,North
+C145,T0690,05-01-2025,Mouse,Accessories,1,43.50,43.50,Debit Card,North
+C078,T0691,09-06-2025,Laptop,Electronics,1,805.15,805.15,Cash,East
+C238,T0692,16-03-2025,Blender,Home,2,76.33,152.66,Credit Card,East
+C201,T0693,09-05-2025,Smartphone,Electronics,1,408.96,408.96,Cash,North
+C063,T0694,15-08-2025,Blender,Home,1,124.83,124.83,Debit Card,North
+C102,T0695,07-12-2025,Jeans,Clothing,2,35.64,71.28,Debit Card,West
+C200,T0696,23-03-2025,Coffee Maker,Home,3,171.71,515.13,Credit Card,North
+C130,T0697,27-01-2025,Jeans,Clothing,1,41.92,41.92,Debit Card,North
+C121,T0698,22-05-2025,Coffee Maker,Home,1,51.96,51.96,Credit Card,West
+C125,T0699,20-12-2025,Laptop,Electronics,3,948.65,2845.95,Cash,South
+C191,T0700,18-12-2025,Smartphone,Electronics,1,599.95,599.95,UPI,North
+C031,T0701,24-02-2025,Backpack,Accessories,1,93.12,93.12,Debit Card,West
+C120,T0702,27-06-2025,Backpack,Accessories,4,100.97,403.88,Cash,South
+C011,T0703,09-05-2025,Blender,Home,1,119.68,119.68,Credit Card,West
+C225,T0704,08-04-2025,Sneakers,Footwear,1,119.70,119.70,Debit Card,East
+C166,T0705,03-11-2025,Blender,Home,1,135.44,135.44,Debit Card,North
+C272,T0706,05-10-2025,Headphones,Electronics,1,171.11,171.11,UPI,West
+C001,T0707,10-01-2025,Coffee Maker,Home,1,145.38,145.38,UPI,South
+C165,T0708,18-07-2025,Blender,Home,1,146.39,146.39,Debit Card,West
+C079,T0709,14-06-2025,Jacket,Clothing,1,103.27,103.27,Credit Card,North
+C268,T0710,08-03-2025,Coffee Maker,Home,1,158.58,158.58,Debit Card,North
+C104,T0711,20-10-2025,Smartphone,Electronics,1,359.25,359.25,Cash,West
+C270,T0712,07-07-2025,Jacket,Clothing,2,83.27,166.54,Debit Card,North
+C007,T0713,10-02-2025,Keyboard,Accessories,1,113.56,113.56,Cash,North
+C185,T0714,08-07-2025,Sneakers,Footwear,2,139.04,278.08,Credit Card,East
+C271,T0715,09-02-2025,Laptop,Electronics,2,1100.67,2201.34,Debit Card,North
+C052,T0716,09-04-2025,Blender,Home,1,82.39,82.39,Debit Card,South
+C213,T0717,03-07-2025,Blender,Home,1,110.25,110.25,Cash,West
+C054,T0718,16-09-2025,Headphones,Electronics,2,127.99,255.98,UPI,South
+C274,T0719,11-06-2025,Jacket,Clothing,1,95.80,95.80,UPI,East
+C212,T0720,08-11-2025,Coffee Maker,Home,1,144.36,144.36,Debit Card,South
+C193,T0721,20-08-2025,Sneakers,Footwear,3,75.41,226.23,Cash,West
+C001,T0722,09-01-2025,Blender,Home,1,71.29,71.29,Debit Card,East
+C004,T0723,11-06-2025,Mouse,Accessories,4,28.96,115.84,Credit Card,East
+C262,T0724,18-02-2025,Sneakers,Footwear,1,107.16,107.16,Credit Card,West
+C183,T0725,26-10-2025,Headphones,Electronics,1,98.73,98.73,Debit Card,South
+C132,T0726,22-04-2025,Mouse,Accessories,1,40.99,40.99,Credit Card,East
+C248,T0727,26-12-2025,Headphones,Electronics,1,183.84,183.84,Credit Card,East
+C020,T0728,29-01-2025,Blender,Home,2,81.97,163.94,UPI,East
+C223,T0729,27-04-2025,T-Shirt,Clothing,3,19.22,57.66,Credit Card,West
+C028,T0730,17-10-2025,Mouse,Accessories,1,35.76,35.76,Debit Card,East
+C258,T0731,21-07-2025,Blender,Home,1,45.56,45.56,Cash,North
+C114,T0732,09-03-2025,T-Shirt,Clothing,1,28.80,28.80,UPI,North
+C244,T0733,15-05-2025,Jacket,Clothing,2,121.26,242.52,Credit Card,West
+C257,T0734,11-03-2025,T-Shirt,Clothing,2,19.56,39.12,Cash,South
+C250,T0735,12-11-2025,T-Shirt,Clothing,1,21.86,21.86,Debit Card,South
+C037,T0736,22-10-2025,Mouse,Accessories,2,36.02,72.04,Credit Card,North
+C212,T0737,26-06-2025,T-Shirt,Clothing,1,21.67,21.67,Credit Card,East
+C087,T0738,15-08-2025,Backpack,Accessories,1,119.11,119.11,Debit Card,West
+C023,T0739,13-02-2025,Keyboard,Accessories,1,63.64,63.64,Credit Card,North
+C125,T0740,28-05-2025,Jacket,Clothing,3,162.94,488.82,Credit Card,East
+C057,T0741,18-04-2025,Mouse,Accessories,1,16.48,16.48,Debit Card,South
+C280,T0742,15-11-2025,Sneakers,Footwear,2,104.88,209.76,Debit Card,North
+C193,T0743,11-05-2025,Jacket,Clothing,3,118.48,355.44,Debit Card,North
+C146,T0744,28-01-2025,Keyboard,Accessories,2,85.62,171.24,Cash,North
+C035,T0745,04-12-2025,T-Shirt,Clothing,1,38.20,38.20,UPI,North
+C010,T0746,29-04-2025,Mouse,Accessories,2,57.21,114.42,Cash,North
+C162,T0747,06-04-2025,Jeans,Clothing,2,61.89,123.78,Debit Card,West
+C012,T0748,20-06-2025,Laptop,Electronics,1,917.65,917.65,Cash,West
+C081,T0749,17-11-2025,Laptop,Electronics,1,811.15,811.15,UPI,South
+C257,T0750,18-07-2025,Mouse,Accessories,2,55.68,111.36,Credit Card,East
+C116,T0751,12-03-2025,Headphones,Electronics,1,102.86,102.86,Credit Card,West
+C267,T0752,27-04-2025,Coffee Maker,Home,1,131.32,131.32,Cash,South
+C079,T0753,18-06-2025,T-Shirt,Clothing,3,46.84,140.52,Cash,South
+C106,T0754,14-04-2025,Coffee Maker,Home,1,120.38,120.38,Debit Card,East
+C269,T0755,16-03-2025,Headphones,Electronics,1,185.44,185.44,Debit Card,East
+C035,T0756,05-04-2025,Sneakers,Footwear,1,121.94,121.94,UPI,South
+C016,T0757,30-07-2025,Backpack,Accessories,2,67.26,134.52,UPI,West
+C141,T0758,05-04-2025,Headphones,Electronics,2,57.08,114.16,Credit Card,East
+C119,T0759,03-07-2025,Jacket,Clothing,1,139.36,139.36,Credit Card,West
+C069,T0760,29-11-2025,Sneakers,Footwear,2,96.88,193.76,UPI,South
+C199,T0761,26-04-2025,Jeans,Clothing,1,39.83,39.83,Credit Card,West
+C008,T0762,10-12-2025,Mouse,Accessories,3,29.47,88.41,Debit Card,South
+C034,T0763,12-11-2025,Headphones,Electronics,3,197.70,593.10,Cash,East
+C235,T0764,08-11-2025,Keyboard,Accessories,1,99.86,99.86,Cash,East
+C202,T0765,02-10-2025,Jacket,Clothing,3,124.35,373.05,Credit Card,North
+C232,T0766,06-05-2025,Jeans,Clothing,2,32.54,65.08,Cash,North
+C199,T0767,08-04-2025,Sneakers,Footwear,2,146.26,292.52,UPI,West
+C204,T0768,27-03-2025,Mouse,Accessories,2,33.58,67.16,Cash,East
+C028,T0769,27-11-2025,Blender,Home,1,55.65,55.65,Cash,North
+C257,T0770,23-12-2025,Smartphone,Electronics,1,651.27,651.27,Debit Card,West
+C212,T0771,30-10-2025,Backpack,Accessories,1,46.10,46.10,Debit Card,West
+C047,T0772,31-12-2025,Mouse,Accessories,1,57.16,57.16,Debit Card,North
+C047,T0773,13-02-2025,Smartphone,Electronics,2,680.44,1360.88,Cash,South
+C194,T0774,21-06-2025,Sneakers,Footwear,1,126.83,126.83,Debit Card,South
+C075,T0775,07-06-2025,Headphones,Electronics,2,48.21,96.42,UPI,West
+C148,T0776,14-04-2025,Coffee Maker,Home,1,166.81,166.81,Credit Card,East
+C007,T0777,03-01-2025,Jeans,Clothing,1,59.92,59.92,Cash,South
+C112,T0778,15-08-2025,Jacket,Clothing,1,108.99,108.99,Credit Card,North
+C126,T0779,17-04-2025,Sneakers,Footwear,1,112.86,112.86,Credit Card,South
+C076,T0780,17-01-2025,Laptop,Electronics,1,622.03,622.03,UPI,East
+C045,T0781,24-03-2025,Laptop,Electronics,1,1196.24,1196.24,UPI,South
+C234,T0782,17-02-2025,Blender,Home,1,142.46,142.46,UPI,East
+C189,T0783,09-10-2025,T-Shirt,Clothing,2,41.55,83.10,Credit Card,East
+C242,T0784,18-06-2025,Headphones,Electronics,1,177.51,177.51,Cash,South
+C108,T0785,19-11-2025,Jacket,Clothing,1,124.28,124.28,Credit Card,West
+C148,T0786,27-09-2025,T-Shirt,Clothing,1,26.08,26.08,UPI,South
+C255,T0787,03-04-2025,Sneakers,Footwear,2,99.77,199.54,Debit Card,East
+C100,T0788,02-03-2025,Laptop,Electronics,1,878.93,878.93,Debit Card,West
+C212,T0789,23-11-2025,Laptop,Electronics,1,936.25,936.25,Debit Card,North
+C104,T0790,07-06-2025,Blender,Home,1,126.92,126.92,UPI,East
+C004,T0791,19-10-2025,Smartphone,Electronics,1,504.82,504.82,Credit Card,South
+C100,T0792,03-09-2025,Backpack,Accessories,2,113.01,226.02,Cash,North
+C070,T0793,02-10-2025,Jeans,Clothing,1,57.64,57.64,UPI,West
+C212,T0794,17-10-2025,Blender,Home,1,97.32,97.32,UPI,North
+C107,T0795,01-07-2025,Jacket,Clothing,1,153.94,153.94,Credit Card,South
+C144,T0796,01-10-2025,Laptop,Electronics,1,825.14,825.14,Debit Card,West
+C096,T0797,07-06-2025,Jacket,Clothing,1,151.70,151.70,UPI,North
+C140,T0798,10-07-2025,T-Shirt,Clothing,1,45.70,45.70,Cash,East
+C111,T0799,20-01-2025,Sneakers,Footwear,1,61.22,61.22,Debit Card,North
+C228,T0800,14-09-2025,Sneakers,Footwear,1,98.27,98.27,Debit Card,South
+C175,T0801,17-06-2025,Jeans,Clothing,2,61.42,122.84,Debit Card,North
+C265,T0802,19-01-2025,Coffee Maker,Home,4,76.67,306.68,Cash,West
+C268,T0803,18-12-2025,Smartphone,Electronics,1,859.40,859.40,Credit Card,East
+C240,T0804,09-06-2025,Laptop,Electronics,1,1059.71,1059.71,Credit Card,East
+C108,T0805,30-09-2025,Backpack,Accessories,1,55.79,55.79,UPI,West
+C061,T0806,08-01-2025,Mouse,Accessories,1,32.79,32.79,Credit Card,South
+C278,T0807,27-12-2025,Backpack,Accessories,1,54.39,54.39,UPI,South
+C088,T0808,04-10-2025,Smartphone,Electronics,1,835.35,835.35,Cash,North
+C067,T0809,24-02-2025,Laptop,Electronics,1,1005.30,1005.30,Cash,North
+C045,T0810,31-10-2025,T-Shirt,Clothing,1,39.66,39.66,Cash,East
+C160,T0811,10-12-2025,Backpack,Accessories,2,94.16,188.32,Credit Card,West
+C068,T0812,28-08-2025,Smartphone,Electronics,2,851.81,1703.62,Credit Card,West
+C159,T0813,29-08-2025,Coffee Maker,Home,1,149.64,149.64,Debit Card,South
+C074,T0814,04-04-2025,Jacket,Clothing,1,97.25,97.25,UPI,East
+C233,T0815,29-06-2025,Jeans,Clothing,1,58.52,58.52,Cash,West
+C088,T0816,07-03-2025,Mouse,Accessories,2,54.29,108.58,Credit Card,West
+C055,T0817,04-06-2025,Backpack,Accessories,1,36.38,36.38,Cash,West
+C212,T0818,04-09-2025,Keyboard,Accessories,1,79.32,79.32,Cash,North
+C175,T0819,11-08-2025,Keyboard,Accessories,2,83.19,166.38,UPI,South
+C089,T0820,31-12-2025,Coffee Maker,Home,1,146.12,146.12,Cash,North
+C238,T0821,01-04-2025,Backpack,Accessories,1,103.98,103.98,UPI,West
+C036,T0822,14-07-2025,Jacket,Clothing,1,155.83,155.83,UPI,West
+C032,T0823,25-10-2025,Smartphone,Electronics,1,383.35,383.35,Credit Card,South
+C077,T0824,23-10-2025,Jeans,Clothing,1,53.40,53.40,Cash,South
+C106,T0825,14-12-2025,Coffee Maker,Home,2,88.97,177.94,UPI,West
+C177,T0826,19-09-2025,Smartphone,Electronics,1,666.89,666.89,Cash,South
+C151,T0827,28-01-2025,Laptop,Electronics,1,929.33,929.33,Credit Card,East
+C057,T0828,26-12-2025,Mouse,Accessories,2,30.29,60.58,Cash,East
+C196,T0829,06-12-2025,T-Shirt,Clothing,1,34.08,34.08,Debit Card,West
+C072,T0830,04-07-2025,Keyboard,Accessories,1,105.90,105.90,Cash,South
+C148,T0831,28-11-2025,Coffee Maker,Home,1,51.51,51.51,Credit Card,South
+C250,T0832,13-02-2025,Coffee Maker,Home,1,178.73,178.73,Debit Card,West
+C234,T0833,03-04-2025,Blender,Home,1,86.83,86.83,Cash,West
+C231,T0834,06-11-2025,T-Shirt,Clothing,1,21.50,21.50,Credit Card,West
+C122,T0835,07-10-2025,Blender,Home,1,85.19,85.19,UPI,North
+C020,T0836,25-10-2025,Jacket,Clothing,1,97.92,97.92,Cash,North
+C073,T0837,24-05-2025,Blender,Home,2,148.19,296.38,Cash,North
+C268,T0838,06-12-2025,Jacket,Clothing,1,111.42,111.42,Credit Card,East
+C028,T0839,21-08-2025,Backpack,Accessories,1,30.97,30.97,Cash,East
+C216,T0840,29-05-2025,Backpack,Accessories,3,101.84,305.52,Debit Card,North
+C156,T0841,19-11-2025,Blender,Home,2,68.65,137.30,Cash,South
+C027,T0842,16-11-2025,Coffee Maker,Home,4,155.16,620.64,Credit Card,East
+C249,T0843,23-05-2025,Smartphone,Electronics,1,346.12,346.12,UPI,South
+C144,T0844,27-02-2025,Mouse,Accessories,2,15.92,31.84,Debit Card,South
+C229,T0845,25-12-2025,Backpack,Accessories,2,53.51,107.02,Debit Card,West
+C093,T0846,13-02-2025,Sneakers,Footwear,2,84.28,168.56,Debit Card,South
+C254,T0847,14-08-2025,T-Shirt,Clothing,2,23.33,46.66,Debit Card,South
+C177,T0848,01-03-2025,Laptop,Electronics,1,1053.29,1053.29,Credit Card,South
+C238,T0849,30-09-2025,T-Shirt,Clothing,1,31.67,31.67,Debit Card,West
+C200,T0850,11-08-2025,Jeans,Clothing,1,61.83,61.83,Credit Card,East
+C230,T0851,16-12-2025,T-Shirt,Clothing,1,48.66,48.66,Credit Card,North
+C273,T0852,09-11-2025,Coffee Maker,Home,1,159.75,159.75,UPI,East
+C139,T0853,27-10-2025,Mouse,Accessories,2,31.60,63.20,Cash,West
+C124,T0854,24-09-2025,Blender,Home,1,124.75,124.75,UPI,South
+C161,T0855,04-02-2025,Sneakers,Footwear,1,50.85,50.85,Credit Card,West
+C051,T0856,23-04-2025,Sneakers,Footwear,1,94.59,94.59,UPI,East
+C099,T0857,01-11-2025,Laptop,Electronics,1,655.16,655.16,Debit Card,North
+C062,T0858,03-12-2025,Smartphone,Electronics,2,377.94,755.88,Debit Card,North
+C095,T0859,08-02-2025,Mouse,Accessories,1,57.93,57.93,Cash,East
+C219,T0860,15-06-2025,Blender,Home,3,124.69,374.07,UPI,South
+C038,T0861,20-06-2025,Mouse,Accessories,2,39.88,79.76,Credit Card,East
+C136,T0862,13-04-2025,Headphones,Electronics,1,118.68,118.68,Cash,South
+C252,T0863,22-04-2025,Smartphone,Electronics,1,761.22,761.22,Credit Card,West
+C133,T0864,09-05-2025,Smartphone,Electronics,1,342.25,342.25,Cash,North
+C255,T0865,20-01-2025,Headphones,Electronics,1,40.14,40.14,Cash,East
+C078,T0866,02-01-2025,Blender,Home,1,83.05,83.05,Cash,West
+C224,T0867,05-02-2025,T-Shirt,Clothing,2,42.33,84.66,Debit Card,North
+C197,T0868,18-10-2025,Blender,Home,2,93.03,186.06,UPI,East
+C156,T0869,28-11-2025,T-Shirt,Clothing,1,49.90,49.90,Credit Card,East
+C274,T0870,29-05-2025,Backpack,Accessories,1,71.37,71.37,Debit Card,South
+C021,T0871,19-07-2025,T-Shirt,Clothing,1,25.46,25.46,Credit Card,East
+C250,T0872,08-04-2025,Smartphone,Electronics,2,562.79,1125.58,Debit Card,North
+C099,T0873,08-09-2025,Laptop,Electronics,2,955.77,1911.54,Cash,North
+C277,T0874,19-08-2025,Coffee Maker,Home,1,119.41,119.41,Credit Card,North
+C174,T0875,27-07-2025,Laptop,Electronics,1,1032.61,1032.61,Credit Card,South
+C268,T0876,02-10-2025,Jeans,Clothing,3,82.21,246.63,Debit Card,South
+C037,T0877,10-01-2025,Laptop,Electronics,2,893.34,1786.68,Cash,North
+C125,T0878,20-11-2025,Blender,Home,1,41.58,41.58,Credit Card,East
+C050,T0879,02-02-2025,Jeans,Clothing,1,80.12,80.12,Credit Card,North
+C255,T0880,14-04-2025,Jacket,Clothing,2,78.67,157.34,Cash,East
+C206,T0881,07-10-2025,Backpack,Accessories,1,91.57,91.57,Debit Card,East
+C110,T0882,03-03-2025,Laptop,Electronics,1,801.30,801.30,UPI,South
+C213,T0883,13-08-2025,Headphones,Electronics,1,128.55,128.55,Debit Card,North
+C069,T0884,12-07-2025,Smartphone,Electronics,2,679.32,1358.64,Debit Card,North
+C250,T0885,15-02-2025,Smartphone,Electronics,1,407.65,407.65,UPI,West
+C244,T0886,19-05-2025,Blender,Home,1,55.74,55.74,Cash,West
+C123,T0887,03-04-2025,Headphones,Electronics,1,46.02,46.02,Cash,North
+C155,T0888,09-04-2025,Backpack,Accessories,1,80.19,80.19,Credit Card,North
+C186,T0889,17-11-2025,Sneakers,Footwear,1,96.42,96.42,Debit Card,East
+C028,T0890,31-08-2025,Keyboard,Accessories,1,43.43,43.43,Cash,South
+C082,T0891,06-07-2025,Coffee Maker,Home,3,57.02,171.06,UPI,South
+C223,T0892,21-08-2025,Mouse,Accessories,1,67.33,67.33,Credit Card,North
+C027,T0893,06-09-2025,Sneakers,Footwear,1,128.55,128.55,Credit Card,North
+C121,T0894,03-08-2025,Blender,Home,1,103.77,103.77,Debit Card,East
+C118,T0895,31-07-2025,Smartphone,Electronics,1,358.84,358.84,Debit Card,West
+C113,T0896,12-08-2025,Smartphone,Electronics,1,590.64,590.64,Debit Card,South
+C233,T0897,10-04-2025,Headphones,Electronics,1,61.82,61.82,UPI,East
+C104,T0898,31-01-2025,Backpack,Accessories,1,92.30,92.30,UPI,South
+C057,T0899,25-06-2025,Jeans,Clothing,1,40.27,40.27,Debit Card,East
+C081,T0900,23-10-2025,Coffee Maker,Home,3,167.73,503.19,Debit Card,North
+C211,T0901,30-10-2025,Sneakers,Footwear,1,149.57,149.57,Cash,West
+C143,T0902,07-05-2025,Laptop,Electronics,2,1041.71,2083.42,Debit Card,East
+C223,T0903,18-03-2025,Jacket,Clothing,1,170.57,170.57,Credit Card,West
+C023,T0904,16-09-2025,Laptop,Electronics,4,1040.09,4160.36,Credit Card,West
+C272,T0905,20-02-2025,T-Shirt,Clothing,1,42.93,42.93,Cash,West
+C124,T0906,28-07-2025,Smartphone,Electronics,1,307.45,307.45,Debit Card,South
+C184,T0907,09-01-2025,Mouse,Accessories,1,79.93,79.93,Cash,East
+C083,T0908,26-10-2025,Blender,Home,1,102.74,102.74,Credit Card,West
+C238,T0909,09-07-2025,Headphones,Electronics,2,104.86,209.72,Cash,North
+C037,T0910,17-01-2025,T-Shirt,Clothing,2,26.65,53.30,UPI,West
+C139,T0911,17-04-2025,Blender,Home,3,99.67,299.01,Credit Card,East
+C029,T0912,27-01-2025,Sneakers,Footwear,3,117.47,352.41,Credit Card,West
+C188,T0913,31-03-2025,Jeans,Clothing,1,51.93,51.93,Credit Card,South
+C071,T0914,02-09-2025,Backpack,Accessories,1,40.22,40.22,Debit Card,South
+C165,T0915,05-08-2025,Backpack,Accessories,2,75.32,150.64,UPI,North
+C033,T0916,27-09-2025,Backpack,Accessories,1,73.76,73.76,Credit Card,West
+C273,T0917,20-08-2025,Coffee Maker,Home,2,166.93,333.86,UPI,North
+C097,T0918,02-04-2025,Jeans,Clothing,1,53.44,53.44,UPI,North
+C056,T0919,12-09-2025,Headphones,Electronics,1,151.53,151.53,Debit Card,South
+C267,T0920,16-12-2025,Coffee Maker,Home,1,104.15,104.15,Debit Card,West
+C178,T0921,30-05-2025,T-Shirt,Clothing,1,37.56,37.56,Debit Card,North
+C012,T0922,21-06-2025,Keyboard,Accessories,2,76.77,153.54,Cash,East
+C168,T0923,08-10-2025,Jeans,Clothing,1,71.81,71.81,Cash,West
+C156,T0924,29-03-2025,Jacket,Clothing,1,152.62,152.62,UPI,South
+C248,T0925,25-01-2025,Backpack,Accessories,3,99.28,297.84,Debit Card,East
+C146,T0926,24-03-2025,Jeans,Clothing,3,67.12,201.36,UPI,South
+C090,T0927,20-03-2025,Blender,Home,1,113.30,113.30,Debit Card,South
+C060,T0928,14-08-2025,Laptop,Electronics,4,944.72,3778.88,UPI,East
+C095,T0929,12-06-2025,Keyboard,Accessories,1,33.12,33.12,UPI,South
+C191,T0930,04-06-2025,Jeans,Clothing,1,39.76,39.76,Credit Card,North
+C208,T0931,13-06-2025,Jeans,Clothing,2,86.87,173.74,Debit Card,North
+C280,T0932,31-08-2025,Sneakers,Footwear,1,120.55,120.55,UPI,South
+C227,T0933,21-01-2025,Backpack,Accessories,1,95.85,95.85,Debit Card,North
+C158,T0934,17-08-2025,Laptop,Electronics,1,1104.53,1104.53,UPI,North
+C168,T0935,27-09-2025,Laptop,Electronics,1,717.09,717.09,Debit Card,East
+C101,T0936,13-12-2025,Laptop,Electronics,1,1109.67,1109.67,Credit Card,West
+C100,T0937,29-01-2025,Jeans,Clothing,1,66.30,66.30,UPI,West
+C076,T0938,10-07-2025,Blender,Home,2,80.66,161.32,Credit Card,East
+C177,T0939,15-10-2025,Backpack,Accessories,1,70.10,70.10,Credit Card,South
+C228,T0940,28-05-2025,Blender,Home,4,128.41,513.64,Debit Card,West
+C213,T0941,15-03-2025,Headphones,Electronics,2,135.67,271.34,Debit Card,East
+C244,T0942,30-10-2025,Sneakers,Footwear,4,56.61,226.44,Cash,North
+C004,T0943,31-03-2025,T-Shirt,Clothing,1,24.57,24.57,Cash,South
+C103,T0944,09-09-2025,Headphones,Electronics,2,86.31,172.62,Credit Card,East
+C156,T0945,14-01-2025,Jeans,Clothing,1,57.81,57.81,Credit Card,South
+C135,T0946,30-08-2025,Mouse,Accessories,3,69.23,207.69,Credit Card,East
+C214,T0947,06-05-2025,Headphones,Electronics,1,150.05,150.05,Credit Card,North
+C142,T0948,05-07-2025,Jeans,Clothing,4,34.00,136.00,Cash,West
+C133,T0949,03-03-2025,Coffee Maker,Home,1,176.65,176.65,UPI,North
+C133,T0950,25-08-2025,Headphones,Electronics,1,63.38,63.38,Debit Card,East
+C084,T0951,02-07-2025,Laptop,Electronics,1,851.71,851.71,Credit Card,East
+C150,T0952,10-04-2025,Sneakers,Footwear,1,57.68,57.68,Debit Card,North
+C086,T0953,17-12-2025,Sneakers,Footwear,1,81.62,81.62,UPI,East
+C186,T0954,15-03-2025,Smartphone,Electronics,1,510.98,510.98,Credit Card,South
+C266,T0955,24-06-2025,Mouse,Accessories,1,46.52,46.52,Debit Card,North
+C112,T0956,14-10-2025,Headphones,Electronics,1,173.05,173.05,Credit Card,West
+C236,T0957,09-01-2025,Smartphone,Electronics,1,378.74,378.74,Cash,East
+C160,T0958,02-11-2025,Blender,Home,1,129.87,129.87,UPI,South
+C156,T0959,07-03-2025,Laptop,Electronics,2,671.16,1342.32,Debit Card,South
+C158,T0960,06-08-2025,Headphones,Electronics,1,196.98,196.98,Credit Card,North
+C010,T0961,25-02-2025,Jeans,Clothing,2,32.55,65.10,Credit Card,North
+C241,T0962,04-06-2025,Smartphone,Electronics,3,325.97,977.91,Credit Card,North
+C064,T0963,05-04-2025,Jacket,Clothing,1,167.15,167.15,UPI,North
+C047,T0964,24-10-2025,Headphones,Electronics,2,190.70,381.40,UPI,East
+C083,T0965,16-09-2025,Sneakers,Footwear,2,111.30,222.60,Credit Card,North
+C008,T0966,25-05-2025,Sneakers,Footwear,1,69.15,69.15,Debit Card,North
+C051,T0967,01-09-2025,Keyboard,Accessories,3,106.62,319.86,UPI,South
+C226,T0968,01-07-2025,Coffee Maker,Home,3,73.51,220.53,Cash,West
+C110,T0969,10-06-2025,Sneakers,Footwear,1,61.28,61.28,Credit Card,West
+C057,T0970,27-12-2025,Sneakers,Footwear,1,126.23,126.23,UPI,North
+C043,T0971,22-08-2025,Backpack,Accessories,1,64.63,64.63,UPI,West
+C116,T0972,08-08-2025,Sneakers,Footwear,1,148.50,148.50,Debit Card,North
+C244,T0973,12-12-2025,Coffee Maker,Home,1,51.66,51.66,Cash,North
+C203,T0974,03-03-2025,Jeans,Clothing,1,70.59,70.59,Debit Card,West
+C206,T0975,28-03-2025,Blender,Home,1,51.19,51.19,Credit Card,East
+C102,T0976,26-07-2025,Backpack,Accessories,1,105.96,105.96,Credit Card,South
+C218,T0977,25-10-2025,Blender,Home,1,124.13,124.13,UPI,West
+C183,T0978,06-09-2025,Jeans,Clothing,1,87.01,87.01,UPI,South
+C233,T0979,29-04-2025,Smartphone,Electronics,1,593.60,593.60,Debit Card,North
+C051,T0980,14-12-2025,Blender,Home,1,47.51,47.51,Credit Card,South
+C196,T0981,15-11-2025,Jacket,Clothing,1,69.86,69.86,Credit Card,North
+C267,T0982,05-12-2025,Jeans,Clothing,2,42.12,84.24,Cash,West
+C259,T0983,04-10-2025,Mouse,Accessories,1,67.62,67.62,Credit Card,North
+C221,T0984,12-07-2025,Smartphone,Electronics,1,488.74,488.74,Cash,West
+C019,T0985,05-06-2025,Laptop,Electronics,1,995.65,995.65,Debit Card,West
+C221,T0986,26-02-2025,Headphones,Electronics,1,102.25,102.25,Cash,West
+C244,T0987,20-07-2025,Sneakers,Footwear,2,100.67,201.34,UPI,West
+C194,T0988,26-05-2025,Jacket,Clothing,1,149.64,149.64,UPI,North
+C015,T0989,28-06-2025,Jacket,Clothing,1,158.80,158.80,Credit Card,East
+C195,T0990,30-07-2025,Smartphone,Electronics,1,895.17,895.17,UPI,North
+C126,T0991,13-02-2025,Keyboard,Accessories,1,58.09,58.09,Credit Card,East
+C059,T0992,20-01-2025,Backpack,Accessories,1,78.46,78.46,Cash,West
+C264,T0993,29-10-2025,T-Shirt,Clothing,1,39.36,39.36,Credit Card,East
+C194,T0994,08-09-2025,Jacket,Clothing,1,124.43,124.43,Credit Card,South
+C173,T0995,23-06-2025,Jeans,Clothing,1,75.89,75.89,Debit Card,East
+C187,T0996,08-02-2025,T-Shirt,Clothing,1,37.24,37.24,Debit Card,East
+C136,T0997,26-04-2025,Laptop,Electronics,1,944.11,944.11,Credit Card,North
+C173,T0998,01-09-2025,Mouse,Accessories,1,67.08,67.08,Cash,South
+C178,T0999,03-06-2025,Smartphone,Electronics,1,481.11,481.11,Cash,East
+C103,T1000,21-08-2025,T-Shirt,Clothing,1,36.87,36.87,Debit Card,North
+C265,T1001,28-08-2025,Headphones,Electronics,1,74.07,74.07,UPI,West
+C031,T1002,04-05-2025,Sneakers,Footwear,1,96.25,96.25,Debit Card,East
+C223,T1003,02-02-2025,T-Shirt,Clothing,1,44.06,44.06,Debit Card,West
+C137,T1004,04-11-2025,Mouse,Accessories,1,31.67,31.67,Debit Card,West
+C123,T1005,08-06-2025,Smartphone,Electronics,1,316.62,316.62,Cash,West
+C224,T1006,23-03-2025,T-Shirt,Clothing,1,16.30,16.30,UPI,South
+C015,T1007,09-10-2025,Mouse,Accessories,2,33.06,66.12,Debit Card,North
+C249,T1008,10-06-2025,Laptop,Electronics,1,1137.90,1137.90,UPI,North
+C209,T1009,23-07-2025,Backpack,Accessories,1,109.71,109.71,Debit Card,South
+C058,T1010,25-09-2025,Jacket,Clothing,2,171.28,342.56,UPI,West
+C047,T1011,10-06-2025,Keyboard,Accessories,1,99.59,99.59,UPI,West
+C121,T1012,20-04-2025,T-Shirt,Clothing,1,18.74,18.74,UPI,West
+C210,T1013,01-10-2025,Mouse,Accessories,2,18.64,37.28,UPI,North
+C163,T1014,23-05-2025,Sneakers,Footwear,1,118.27,118.27,Debit Card,East
+C244,T1015,27-11-2025,Blender,Home,1,73.90,73.90,Credit Card,North
+C123,T1016,25-12-2025,Mouse,Accessories,1,35.10,35.10,UPI,North
+C274,T1017,21-07-2025,Keyboard,Accessories,2,64.96,129.92,UPI,East
+C047,T1018,24-03-2025,Keyboard,Accessories,1,107.35,107.35,Cash,East
+C209,T1019,09-09-2025,Laptop,Electronics,1,648.06,648.06,Cash,West
+C171,T1020,21-02-2025,Blender,Home,1,141.04,141.04,Debit Card,East
+C260,T1021,08-10-2025,Smartphone,Electronics,1,661.27,661.27,UPI,West
+C015,T1022,16-08-2025,Laptop,Electronics,1,710.24,710.24,Debit Card,North
+C206,T1023,12-02-2025,Keyboard,Accessories,1,58.23,58.23,Credit Card,South
+C128,T1024,29-11-2025,Sneakers,Footwear,2,126.76,253.52,Debit Card,West
+C164,T1025,14-05-2025,Jeans,Clothing,1,74.11,74.11,Debit Card,East
+C145,T1026,21-07-2025,Keyboard,Accessories,1,63.08,63.08,Cash,South
+C011,T1027,17-11-2025,Laptop,Electronics,3,988.26,2964.78,Debit Card,North
+C237,T1028,26-01-2025,Keyboard,Accessories,1,106.66,106.66,Cash,West
+C134,T1029,18-10-2025,Headphones,Electronics,1,98.87,98.87,Credit Card,North
+C270,T1030,11-12-2025,T-Shirt,Clothing,2,47.49,94.98,Cash,North
+C115,T1031,17-05-2025,Blender,Home,1,144.07,144.07,UPI,West
+C196,T1032,21-04-2025,Headphones,Electronics,1,73.06,73.06,UPI,South
+C215,T1033,29-05-2025,Headphones,Electronics,1,63.35,63.35,UPI,South
+C231,T1034,23-08-2025,Keyboard,Accessories,1,91.58,91.58,Credit Card,North
+C241,T1035,23-07-2025,Headphones,Electronics,2,195.90,391.80,Debit Card,West
+C217,T1036,13-10-2025,Blender,Home,1,48.04,48.04,Credit Card,North
+C171,T1037,07-11-2025,Keyboard,Accessories,1,61.89,61.89,Credit Card,North
+C130,T1038,22-07-2025,Sneakers,Footwear,1,80.25,80.25,UPI,South
+C022,T1039,10-09-2025,Jacket,Clothing,1,72.08,72.08,UPI,West
+C068,T1040,14-03-2025,Smartphone,Electronics,1,618.25,618.25,UPI,North
+C161,T1041,24-05-2025,Laptop,Electronics,3,899.53,2698.59,UPI,West
+C145,T1042,16-05-2025,Mouse,Accessories,1,64.50,64.50,UPI,West
+C085,T1043,19-03-2025,Backpack,Accessories,2,74.21,148.42,Cash,North
+C097,T1044,29-08-2025,Headphones,Electronics,1,69.30,69.30,UPI,South
+C240,T1045,11-09-2025,T-Shirt,Clothing,1,46.33,46.33,Credit Card,West
+C183,T1046,27-02-2025,Blender,Home,1,90.35,90.35,Debit Card,North
+C179,T1047,28-03-2025,Smartphone,Electronics,1,470.47,470.47,UPI,South
+C003,T1048,09-02-2025,Sneakers,Footwear,2,68.06,136.12,Debit Card,West
+C049,T1049,15-12-2025,Backpack,Accessories,1,91.32,91.32,Credit Card,West
+C192,T1050,15-06-2025,Jacket,Clothing,3,63.79,191.37,Debit Card,North
+C042,T1051,21-08-2025,Jeans,Clothing,2,69.57,139.14,UPI,North
+C169,T1052,16-06-2025,Laptop,Electronics,1,1170.54,1170.54,Debit Card,South
+C025,T1053,06-02-2025,Coffee Maker,Home,1,153.76,153.76,Cash,North
+C205,T1054,24-07-2025,Mouse,Accessories,1,77.73,77.73,Credit Card,North
+C107,T1055,28-11-2025,Headphones,Electronics,1,104.38,104.38,Debit Card,North
+C153,T1056,08-06-2025,Jeans,Clothing,2,74.15,148.30,Debit Card,East
+C050,T1057,18-07-2025,Backpack,Accessories,1,74.07,74.07,Cash,East
+C217,T1058,11-11-2025,Smartphone,Electronics,2,786.60,1573.20,Debit Card,West
+C219,T1059,26-08-2025,Smartphone,Electronics,1,505.05,505.05,Debit Card,South
+C254,T1060,29-05-2025,Sneakers,Footwear,1,102.47,102.47,Cash,West
+C041,T1061,17-12-2025,Jeans,Clothing,1,89.05,89.05,UPI,South
+C268,T1062,09-02-2025,T-Shirt,Clothing,1,16.67,16.67,Credit Card,North
+C262,T1063,19-10-2025,T-Shirt,Clothing,1,31.26,31.26,UPI,East
+C131,T1064,28-02-2025,Jacket,Clothing,1,115.45,115.45,Cash,South
+C094,T1065,27-12-2025,T-Shirt,Clothing,1,29.57,29.57,UPI,East
+C233,T1066,24-06-2025,Coffee Maker,Home,1,155.02,155.02,Debit Card,South
+C095,T1067,11-12-2025,Smartphone,Electronics,2,662.43,1324.86,Credit Card,West
+C274,T1068,29-03-2025,Laptop,Electronics,1,670.01,670.01,Cash,West
+C208,T1069,07-09-2025,Coffee Maker,Home,3,128.25,384.75,UPI,East
+C203,T1070,08-04-2025,Mouse,Accessories,1,23.78,23.78,Credit Card,North
+C097,T1071,29-11-2025,Laptop,Electronics,1,989.17,989.17,Debit Card,West
+C276,T1072,17-03-2025,Keyboard,Accessories,1,99.27,99.27,Cash,West
+C012,T1073,26-12-2025,Smartphone,Electronics,1,391.45,391.45,Cash,West
+C242,T1074,14-04-2025,Laptop,Electronics,2,951.14,1902.28,UPI,West
+C027,T1075,10-08-2025,Backpack,Accessories,1,86.74,86.74,Cash,West
+C149,T1076,30-10-2025,Laptop,Electronics,1,891.66,891.66,Cash,South
+C032,T1077,11-10-2025,Sneakers,Footwear,1,107.64,107.64,Credit Card,East
+C214,T1078,27-11-2025,Jeans,Clothing,1,67.36,67.36,UPI,West
+C224,T1079,29-08-2025,Laptop,Electronics,1,1035.73,1035.73,UPI,West
+C119,T1080,23-06-2025,Sneakers,Footwear,1,140.91,140.91,Cash,South
+C151,T1081,11-12-2025,Blender,Home,2,145.58,291.16,UPI,West
+C083,T1082,14-02-2025,Jacket,Clothing,1,139.79,139.79,Cash,South
+C089,T1083,01-08-2025,Keyboard,Accessories,1,74.30,74.30,Cash,East
+C121,T1084,03-07-2025,Keyboard,Accessories,1,119.93,119.93,UPI,East
+C082,T1085,17-01-2025,Headphones,Electronics,2,183.11,366.22,Credit Card,East
+C221,T1086,25-04-2025,Smartphone,Electronics,1,372.41,372.41,Cash,East
+C175,T1087,13-10-2025,Backpack,Accessories,2,99.31,198.62,UPI,South
+C264,T1088,13-08-2025,Jacket,Clothing,1,141.83,141.83,Cash,North
+C055,T1089,22-02-2025,Jacket,Clothing,1,161.59,161.59,Credit Card,North
+C086,T1090,05-07-2025,Coffee Maker,Home,1,76.70,76.70,Debit Card,East
+C227,T1091,20-03-2025,Sneakers,Footwear,1,137.05,137.05,UPI,East
+C071,T1092,01-08-2025,Smartphone,Electronics,2,563.47,1126.94,Credit Card,South
+C243,T1093,17-05-2025,Backpack,Accessories,1,45.41,45.41,UPI,West
+C185,T1094,29-09-2025,Coffee Maker,Home,1,69.71,69.71,Cash,South
+C071,T1095,23-08-2025,T-Shirt,Clothing,1,29.33,29.33,UPI,North
+C227,T1096,22-09-2025,Headphones,Electronics,2,154.82,309.64,Credit Card,North
+C174,T1097,11-08-2025,Backpack,Accessories,1,99.51,99.51,Credit Card,West
+C019,T1098,22-10-2025,Coffee Maker,Home,3,69.62,208.86,Credit Card,East
+C215,T1099,05-06-2025,T-Shirt,Clothing,2,39.53,79.06,UPI,East
+C005,T1100,17-03-2025,Mouse,Accessories,3,54.68,164.04,Cash,West
+C106,T1101,15-08-2025,Sneakers,Footwear,1,111.82,111.82,UPI,West
+C102,T1102,19-07-2025,Mouse,Accessories,1,49.93,49.93,Debit Card,East
+C110,T1103,24-06-2025,Smartphone,Electronics,1,487.35,487.35,Debit Card,North
+C015,T1104,05-06-2025,Sneakers,Footwear,1,74.13,74.13,Cash,North
+C031,T1105,05-03-2025,Backpack,Accessories,1,75.67,75.67,Credit Card,North
+C230,T1106,23-06-2025,Mouse,Accessories,1,15.34,15.34,Debit Card,South
+C180,T1107,21-10-2025,Mouse,Accessories,1,66.01,66.01,Debit Card,West
+C267,T1108,26-10-2025,Blender,Home,1,76.06,76.06,Debit Card,East
+C233,T1109,30-07-2025,Smartphone,Electronics,1,555.42,555.42,Credit Card,North
+C032,T1110,17-08-2025,T-Shirt,Clothing,2,31.67,63.34,Credit Card,East
+C270,T1111,22-07-2025,T-Shirt,Clothing,1,33.16,33.16,UPI,West
+C217,T1112,02-08-2025,Jeans,Clothing,1,86.87,86.87,Debit Card,South
+C259,T1113,27-12-2025,Headphones,Electronics,1,113.23,113.23,Credit Card,South
+C234,T1114,14-10-2025,Jeans,Clothing,1,39.41,39.41,UPI,North
+C210,T1115,21-01-2025,Smartphone,Electronics,1,643.06,643.06,Debit Card,North
+C191,T1116,06-09-2025,Mouse,Accessories,4,34.71,138.84,Credit Card,South
+C073,T1117,06-06-2025,Jacket,Clothing,1,171.79,171.79,UPI,South
+C094,T1118,28-06-2025,Blender,Home,1,53.46,53.46,Credit Card,North
+C214,T1119,22-06-2025,Jeans,Clothing,1,63.95,63.95,Cash,West
+C068,T1120,19-08-2025,Headphones,Electronics,1,113.75,113.75,Cash,South
+C167,T1121,29-07-2025,Smartphone,Electronics,2,698.70,1397.40,Cash,South
+C203,T1122,15-08-2025,Backpack,Accessories,1,116.23,116.23,UPI,North
+C085,T1123,29-12-2025,Blender,Home,1,109.31,109.31,UPI,North
+C044,T1124,28-01-2025,Keyboard,Accessories,3,78.77,236.31,Debit Card,West
+C258,T1125,03-04-2025,Laptop,Electronics,1,1161.71,1161.71,Credit Card,East
+C106,T1126,24-10-2025,Keyboard,Accessories,2,105.50,211.00,Cash,North
+C274,T1127,09-09-2025,Jacket,Clothing,1,126.56,126.56,Credit Card,East
+C224,T1128,12-06-2025,Headphones,Electronics,1,177.54,177.54,Cash,East
+C047,T1129,27-05-2025,Smartphone,Electronics,3,625.07,1875.21,Debit Card,South
+C131,T1130,14-12-2025,Smartphone,Electronics,1,871.30,871.30,Debit Card,North
+C167,T1131,19-07-2025,Headphones,Electronics,1,49.36,49.36,Credit Card,East
+C073,T1132,03-03-2025,T-Shirt,Clothing,2,24.03,48.06,Credit Card,South
+C123,T1133,16-09-2025,Jacket,Clothing,1,114.09,114.09,Cash,North
+C138,T1134,03-02-2025,Laptop,Electronics,1,931.87,931.87,Cash,North
+C209,T1135,18-05-2025,Coffee Maker,Home,1,165.20,165.20,Credit Card,South
+C065,T1136,22-11-2025,Mouse,Accessories,1,43.99,43.99,Debit Card,South
+C192,T1137,03-10-2025,Sneakers,Footwear,4,128.20,512.80,Cash,West
+C022,T1138,14-11-2025,Laptop,Electronics,2,1176.67,2353.34,UPI,South
+C001,T1139,03-11-2025,Laptop,Electronics,3,889.31,2667.93,UPI,West
+C180,T1140,25-05-2025,Coffee Maker,Home,1,159.29,159.29,Credit Card,South
+C274,T1141,24-12-2025,Jacket,Clothing,1,61.66,61.66,Credit Card,South
+C144,T1142,12-06-2025,T-Shirt,Clothing,1,32.67,32.67,UPI,East
+C232,T1143,24-06-2025,Mouse,Accessories,1,78.90,78.90,Debit Card,West
+C169,T1144,02-01-2025,Laptop,Electronics,3,680.24,2040.72,Cash,North
+C005,T1145,23-12-2025,Coffee Maker,Home,1,122.25,122.25,Cash,West
+C276,T1146,09-02-2025,Smartphone,Electronics,2,689.46,1378.92,Credit Card,West
+C064,T1147,04-11-2025,Backpack,Accessories,3,63.87,191.61,UPI,West
+C091,T1148,09-07-2025,Blender,Home,4,53.72,214.88,Debit Card,West
+C005,T1149,15-12-2025,Keyboard,Accessories,2,98.26,196.52,UPI,South
+C047,T1150,24-04-2025,Jacket,Clothing,1,155.09,155.09,Debit Card,West
+C186,T1151,28-12-2025,Laptop,Electronics,1,1142.70,1142.70,Debit Card,North
+C101,T1152,19-10-2025,Coffee Maker,Home,1,163.09,163.09,Cash,South
+C100,T1153,05-11-2025,Coffee Maker,Home,2,137.38,274.76,Debit Card,North
+C066,T1154,19-10-2025,Blender,Home,1,68.56,68.56,Debit Card,East
+C099,T1155,14-12-2025,Coffee Maker,Home,1,176.08,176.08,UPI,West
+C002,T1156,27-01-2025,T-Shirt,Clothing,1,48.01,48.01,UPI,West
+C209,T1157,11-09-2025,Mouse,Accessories,1,48.69,48.69,UPI,North
+C115,T1158,18-08-2025,Laptop,Electronics,1,852.04,852.04,UPI,North
+C201,T1159,13-01-2025,Keyboard,Accessories,1,109.21,109.21,Debit Card,West
+C039,T1160,02-02-2025,Keyboard,Accessories,1,59.63,59.63,Credit Card,North
+C246,T1161,17-11-2025,T-Shirt,Clothing,2,35.74,71.48,UPI,East
+C127,T1162,28-01-2025,Smartphone,Electronics,1,875.28,875.28,UPI,South
+C038,T1163,17-11-2025,Jacket,Clothing,1,149.33,149.33,Cash,North
+C044,T1164,22-12-2025,Laptop,Electronics,3,826.44,2479.32,Credit Card,South
+C032,T1165,10-08-2025,Jeans,Clothing,1,66.64,66.64,Credit Card,North
+C029,T1166,25-07-2025,Sneakers,Footwear,1,134.99,134.99,Credit Card,West
+C120,T1167,21-08-2025,Jacket,Clothing,2,131.12,262.24,Cash,West
+C220,T1168,12-12-2025,Jacket,Clothing,1,94.15,94.15,Credit Card,West
+C265,T1169,07-01-2025,Backpack,Accessories,1,39.72,39.72,Credit Card,South
+C065,T1170,04-09-2025,Coffee Maker,Home,1,96.20,96.20,Cash,South
+C125,T1171,09-06-2025,Headphones,Electronics,2,49.68,99.36,Cash,East
+C160,T1172,17-03-2025,Jacket,Clothing,2,150.81,301.62,Cash,East
+C176,T1173,28-10-2025,Mouse,Accessories,1,15.53,15.53,Debit Card,North
+C122,T1174,28-01-2025,Sneakers,Footwear,2,105.94,211.88,Cash,East
+C101,T1175,05-02-2025,Keyboard,Accessories,1,48.11,48.11,UPI,South
+C244,T1176,21-12-2025,Blender,Home,1,91.41,91.41,UPI,East
+C154,T1177,22-01-2025,T-Shirt,Clothing,1,18.67,18.67,Cash,South
+C002,T1178,16-11-2025,Coffee Maker,Home,1,79.94,79.94,Debit Card,South
+C247,T1179,12-07-2025,Blender,Home,2,129.61,259.22,Debit Card,West
+C095,T1180,16-01-2025,Laptop,Electronics,1,644.24,644.24,Credit Card,South
+C149,T1181,04-07-2025,Jeans,Clothing,1,65.14,65.14,Credit Card,North
+C102,T1182,15-05-2025,Keyboard,Accessories,1,49.71,49.71,Debit Card,East
+C126,T1183,15-05-2025,Headphones,Electronics,1,68.17,68.17,Credit Card,North
+C071,T1184,23-06-2025,T-Shirt,Clothing,1,45.98,45.98,Debit Card,East
+C234,T1185,29-03-2025,Keyboard,Accessories,1,63.51,63.51,Cash,North
+C061,T1186,08-04-2025,Headphones,Electronics,2,60.93,121.86,Debit Card,West
+C192,T1187,06-05-2025,Backpack,Accessories,1,117.93,117.93,Credit Card,South
+C275,T1188,28-01-2025,Mouse,Accessories,2,36.30,72.60,UPI,South
+C261,T1189,11-02-2025,Jacket,Clothing,2,77.20,154.40,Cash,North
+C086,T1190,18-09-2025,Sneakers,Footwear,1,138.24,138.24,UPI,West
+C266,T1191,27-09-2025,Jeans,Clothing,1,72.75,72.75,Cash,West
+C243,T1192,26-10-2025,Mouse,Accessories,1,56.48,56.48,Credit Card,South
+C113,T1193,22-04-2025,Keyboard,Accessories,1,51.09,51.09,UPI,West
+C194,T1194,11-05-2025,Jacket,Clothing,1,159.52,159.52,Credit Card,South
+C044,T1195,26-10-2025,Mouse,Accessories,1,37.85,37.85,Credit Card,West
+C263,T1196,10-08-2025,Jacket,Clothing,1,108.65,108.65,Cash,East
+C255,T1197,15-08-2025,Backpack,Accessories,1,32.22,32.22,Debit Card,East
+C039,T1198,14-09-2025,Backpack,Accessories,3,56.51,169.53,Credit Card,East
+C117,T1199,07-10-2025,Smartphone,Electronics,1,516.14,516.14,Debit Card,East
+C101,T1200,16-12-2025,Coffee Maker,Home,1,89.35,89.35,UPI,South
