@@ -1,0 +1,278 @@
+Customer_ID,Transaction_Frequency,Spending,Product_Usage,Recency,Frequency_Score,Spending_Score,Recency_Score,Product_Usage_Score,Total_Score,Segment
+C001,7,3467.26,6,59,3,3,2,3,11,High-Value / Engaged
+C002,5,2896.41,5,46,2,3,2,3,10,High-Value / Engaged
+C003,3,404.11,2,5,1,1,3,1,6,Regular / Growth Potential
+C004,5,867.16,4,40,2,2,2,2,8,Regular / Growth Potential
+C005,5,583.28,4,9,2,2,3,2,9,High-Value / Engaged
+C007,5,452.75,5,79,2,2,2,3,9,High-Value / Engaged
+C008,4,335.35,3,22,2,1,3,1,7,Regular / Growth Potential
+C009,2,1081.6,2,274,1,2,1,1,5,At-Risk / Low Engagement
+C010,4,429.42,4,69,2,1,2,2,7,Regular / Growth Potential
+C011,3,3199.0,3,45,1,3,2,1,7,Regular / Growth Potential
+C012,3,1462.64,3,6,1,2,3,1,7,Regular / Growth Potential
+C013,3,294.5,2,105,1,1,2,1,5,At-Risk / Low Engagement
+C014,5,1391.87,4,59,2,2,2,2,8,Regular / Growth Potential
+C015,8,1267.98,7,41,3,2,2,3,10,High-Value / Engaged
+C016,4,425.67,4,84,2,1,2,2,7,Regular / Growth Potential
+C017,3,188.79,2,133,1,1,1,1,4,At-Risk / Low Engagement
+C018,1,140.8,1,51,1,1,2,1,5,At-Risk / Low Engagement
+C019,3,1343.91,3,71,1,2,2,1,6,Regular / Growth Potential
+C020,3,769.27,3,68,1,2,2,1,6,Regular / Growth Potential
+C021,4,432.33,3,97,2,1,2,1,6,Regular / Growth Potential
+C022,5,2814.79,5,48,2,3,2,3,10,High-Value / Engaged
+C023,8,4890.04,6,7,3,3,3,3,12,High-Value / Engaged
+C024,4,886.43,4,87,2,2,2,2,8,Regular / Growth Potential
+C025,7,2145.91,5,17,3,3,3,3,12,High-Value / Engaged
+C026,1,329.54,1,256,1,1,1,1,4,At-Risk / Low Engagement
+C027,4,974.08,4,46,2,2,2,2,8,Regular / Growth Potential
+C028,8,1074.88,7,27,3,2,2,3,10,High-Value / Engaged
+C029,4,805.42,2,2,2,2,3,1,8,Regular / Growth Potential
+C030,4,1834.04,3,94,2,3,2,1,8,Regular / Growth Potential
+C031,6,897.36,5,22,3,2,3,3,11,High-Value / Engaged
+C032,5,1034.88,4,68,2,2,2,2,8,Regular / Growth Potential
+C033,4,371.66,4,96,2,1,2,2,7,Regular / Growth Potential
+C034,5,947.33,4,50,2,2,2,2,8,Regular / Growth Potential
+C035,6,1657.66,4,21,3,3,3,2,11,High-Value / Engaged
+C036,4,562.61,4,171,2,2,1,2,7,Regular / Growth Potential
+C037,3,1912.02,3,71,1,3,2,1,7,Regular / Growth Potential
+C038,5,756.12,4,45,2,2,2,2,8,Regular / Growth Potential
+C039,8,3545.67,6,18,3,3,3,3,12,High-Value / Engaged
+C040,2,280.85,2,107,1,1,2,1,5,At-Risk / Low Engagement
+C041,3,421.27,2,15,1,1,3,1,6,Regular / Growth Potential
+C042,3,287.86,3,55,1,1,2,1,5,At-Risk / Low Engagement
+C043,4,365.27,3,132,2,1,1,1,5,At-Risk / Low Engagement
+C044,5,2968.78,4,10,2,3,3,2,10,High-Value / Engaged
+C045,3,1272.33,2,62,1,2,2,1,6,Regular / Growth Potential
+C046,6,991.45,6,54,3,2,2,3,10,High-Value / Engaged
+C047,13,4830.21,8,1,3,3,3,3,12,High-Value / Engaged
+C048,2,139.55,2,177,1,1,1,1,4,At-Risk / Low Engagement
+C049,2,181.18,1,17,1,1,3,1,6,Regular / Growth Potential
+C050,7,2200.07,7,80,3,3,2,3,11,High-Value / Engaged
+C051,7,821.32,5,18,3,2,3,3,11,High-Value / Engaged
+C052,4,336.71,4,179,2,1,1,2,6,Regular / Growth Potential
+C053,3,1216.66,3,140,1,2,1,1,5,At-Risk / Low Engagement
+C054,5,1400.56,4,82,2,2,2,2,8,Regular / Growth Potential
+C055,3,316.99,2,87,1,1,2,1,5,At-Risk / Low Engagement
+C056,4,1482.75,4,38,2,2,2,2,8,Regular / Growth Potential
+C057,5,352.42,4,5,2,1,3,2,8,Regular / Growth Potential
+C058,4,3997.49,4,30,2,3,2,2,9,High-Value / Engaged
+C059,1,78.46,1,346,1,1,1,1,4,At-Risk / Low Engagement
+C060,3,4237.66,3,71,1,3,2,1,7,Regular / Growth Potential
+C061,3,525.37,3,241,1,2,1,1,5,At-Risk / Low Engagement
+C062,6,4028.91,4,29,3,3,2,2,10,High-Value / Engaged
+C063,1,124.83,1,139,1,1,1,1,4,At-Risk / Low Engagement
+C064,4,627.81,3,58,2,2,2,1,7,Regular / Growth Potential
+C065,2,140.19,2,40,1,1,2,1,5,At-Risk / Low Engagement
+C066,4,604.47,3,15,2,2,3,1,8,Regular / Growth Potential
+C067,3,1254.32,3,43,1,2,2,1,6,Regular / Growth Potential
+C068,7,4469.26,5,109,3,3,2,3,11,High-Value / Engaged
+C069,5,1995.63,4,33,2,3,2,2,9,High-Value / Engaged
+C070,3,247.58,3,30,1,1,2,1,5,At-Risk / Low Engagement
+C071,11,3339.52,6,7,3,3,3,3,12,High-Value / Engaged
+C072,7,1294.42,5,45,3,2,2,3,10,High-Value / Engaged
+C073,5,1291.48,4,164,2,2,1,2,7,Regular / Growth Potential
+C074,3,263.26,1,41,1,1,2,1,5,At-Risk / Low Engagement
+C075,3,341.28,2,208,1,1,1,1,4,At-Risk / Low Engagement
+C076,3,809.14,3,175,1,2,1,1,5,At-Risk / Low Engagement
+C077,1,53.4,1,70,1,1,2,1,5,At-Risk / Low Engagement
+C078,5,1848.82,4,206,2,3,1,2,8,Regular / Growth Potential
+C079,3,386.32,3,4,1,1,3,1,6,Regular / Growth Potential
+C080,2,603.51,2,91,1,2,2,1,6,Regular / Growth Potential
+C081,4,1550.11,4,20,2,3,3,2,10,High-Value / Engaged
+C082,4,1476.43,4,74,2,2,2,2,8,Regular / Growth Potential
+C083,4,638.69,4,67,2,2,2,2,8,Regular / Growth Potential
+C084,3,1059.21,3,183,1,2,1,1,5,At-Risk / Low Engagement
+C085,6,873.21,5,3,3,2,3,3,11,High-Value / Engaged
+C086,5,434.74,3,15,2,1,3,1,7,Regular / Growth Potential
+C087,1,119.11,1,139,1,1,1,1,4,At-Risk / Low Engagement
+C088,3,1091.03,3,89,1,2,2,1,6,Regular / Growth Potential
+C089,3,270.69,3,1,1,1,3,1,6,Regular / Growth Potential
+C090,7,827.16,3,51,3,2,2,1,8,Regular / Growth Potential
+C091,4,478.81,3,5,2,2,3,1,8,Regular / Growth Potential
+C092,1,113.69,1,2,1,1,3,1,6,Regular / Growth Potential
+C093,1,168.56,1,322,1,1,1,1,4,At-Risk / Low Engagement
+C094,4,319.43,4,5,2,1,3,2,8,Regular / Growth Potential
+C095,7,2342.31,7,21,3,3,3,3,12,High-Value / Engaged
+C096,4,726.64,4,52,2,2,2,2,8,Regular / Growth Potential
+C097,3,1111.91,3,33,1,2,2,1,6,Regular / Growth Potential
+C098,1,40.27,1,89,1,1,2,1,5,At-Risk / Low Engagement
+C099,7,3104.84,5,18,3,3,3,3,12,High-Value / Engaged
+C100,4,1446.01,4,57,2,2,2,2,8,Regular / Growth Potential
+C101,6,1598.2,4,16,3,3,3,2,11,High-Value / Engaged
+C102,7,1269.4,7,25,3,2,2,3,10,High-Value / Engaged
+C103,6,1171.33,6,37,3,2,2,3,10,High-Value / Engaged
+C104,5,2965.49,5,73,2,3,2,3,10,High-Value / Engaged
+C105,4,435.45,3,141,2,2,1,1,6,Regular / Growth Potential
+C106,5,669.5,4,16,2,2,3,2,9,High-Value / Engaged
+C107,3,304.22,3,34,1,1,2,1,5,At-Risk / Low Engagement
+C108,5,608.13,4,43,2,2,2,2,8,Regular / Growth Potential
+C109,2,279.78,2,30,1,1,2,1,5,At-Risk / Low Engagement
+C110,4,1433.77,3,84,2,2,2,1,7,Regular / Growth Potential
+C111,2,119.5,2,119,1,1,1,1,4,At-Risk / Low Engagement
+C112,4,555.89,3,14,2,2,3,1,8,Regular / Growth Potential
+C113,5,1705.65,4,101,2,3,2,2,9,High-Value / Engaged
+C114,3,289.27,3,22,1,1,3,1,6,Regular / Growth Potential
+C115,3,1170.56,3,136,1,2,1,1,5,At-Risk / Low Engagement
+C116,3,300.12,3,128,1,1,1,1,4,At-Risk / Low Engagement
+C117,3,767.99,3,86,1,2,2,1,6,Regular / Growth Potential
+C118,5,879.88,4,75,2,2,2,2,8,Regular / Growth Potential
+C119,4,359.36,4,24,2,1,2,2,7,Regular / Growth Potential
+C120,7,2720.14,5,21,3,3,3,3,12,High-Value / Engaged
+C121,7,1385.05,7,22,3,2,3,3,11,High-Value / Engaged
+C122,6,874.79,5,7,3,2,3,3,11,High-Value / Engaged
+C123,7,671.4,7,7,3,2,3,3,11,High-Value / Engaged
+C124,3,615.59,3,99,1,2,2,1,6,Regular / Growth Potential
+C125,8,4748.58,5,12,3,3,3,3,12,High-Value / Engaged
+C126,4,357.3,3,231,2,1,1,1,5,At-Risk / Low Engagement
+C127,6,1527.61,4,58,3,3,2,2,10,High-Value / Engaged
+C128,7,1443.08,6,19,3,2,3,3,11,High-Value / Engaged
+C129,4,1170.49,4,139,2,2,1,2,7,Regular / Growth Potential
+C130,2,122.17,2,163,1,1,1,1,4,At-Risk / Low Engagement
+C131,2,986.75,2,18,1,2,3,1,7,Regular / Growth Potential
+C132,5,572.88,3,90,2,2,2,1,7,Regular / Growth Potential
+C133,5,940.04,5,99,2,2,2,3,9,High-Value / Engaged
+C134,6,1020.94,6,75,3,2,2,3,10,High-Value / Engaged
+C135,1,207.69,1,124,1,1,1,1,4,At-Risk / Low Engagement
+C136,5,2105.98,4,234,2,3,1,2,8,Regular / Growth Potential
+C137,4,828.89,3,58,2,2,2,1,7,Regular / Growth Potential
+C138,2,1181.59,2,332,1,2,1,1,5,At-Risk / Low Engagement
+C139,4,881.72,4,66,2,2,2,2,8,Regular / Growth Potential
+C140,5,646.67,5,70,2,2,2,3,9,High-Value / Engaged
+C141,5,3105.96,5,8,2,3,3,3,11,High-Value / Engaged
+C142,4,397.34,4,7,2,1,3,2,8,Regular / Growth Potential
+C143,1,2083.42,1,239,1,3,1,1,6,Regular / Growth Potential
+C144,4,927.52,4,71,2,2,2,2,8,Regular / Growth Potential
+C145,6,450.78,5,14,3,2,3,3,11,High-Value / Engaged
+C146,3,448.54,3,137,1,2,1,1,5,At-Risk / Low Engagement
+C147,4,1482.78,4,230,2,2,1,2,7,Regular / Growth Potential
+C148,7,1345.54,5,34,3,2,2,3,10,High-Value / Engaged
+C149,3,1018.05,3,63,1,2,2,1,6,Regular / Growth Potential
+C150,1,57.68,1,266,1,1,1,1,4,At-Risk / Low Engagement
+C151,2,1220.49,2,21,1,2,3,1,7,Regular / Growth Potential
+C152,2,71.21,2,276,1,1,1,1,4,At-Risk / Low Engagement
+C153,4,640.52,3,34,2,2,2,1,7,Regular / Growth Potential
+C154,8,1499.75,7,21,3,3,3,3,12,High-Value / Engaged
+C155,5,1136.19,4,154,2,2,1,2,7,Regular / Growth Potential
+C156,7,1899.72,5,34,3,3,2,3,11,High-Value / Engaged
+C158,4,1566.27,4,60,2,3,2,2,9,High-Value / Engaged
+C159,1,149.64,1,125,1,1,1,1,4,At-Risk / Low Engagement
+C160,5,1597.67,5,22,2,3,3,3,11,High-Value / Engaged
+C161,6,3237.46,6,86,3,3,2,3,11,High-Value / Engaged
+C162,6,3320.25,4,1,3,3,3,2,11,High-Value / Engaged
+C163,2,148.74,2,208,1,1,1,1,4,At-Risk / Low Engagement
+C164,4,467.14,4,71,2,2,2,2,8,Regular / Growth Potential
+C165,8,2218.59,6,46,3,3,2,3,11,High-Value / Engaged
+C166,3,273.76,3,59,1,1,2,1,5,At-Risk / Low Engagement
+C167,3,1611.59,3,156,1,3,1,1,6,Regular / Growth Potential
+C168,5,1048.79,4,85,2,2,2,2,8,Regular / Growth Potential
+C169,4,3435.15,3,160,2,3,1,1,7,Regular / Growth Potential
+C170,4,678.4,4,117,2,2,1,2,7,Regular / Growth Potential
+C171,5,708.64,5,55,2,2,2,3,9,High-Value / Engaged
+C172,1,51.42,1,234,1,1,1,1,4,At-Risk / Low Engagement
+C173,5,482.66,3,122,2,2,1,1,6,Regular / Growth Potential
+C174,4,2452.4,4,5,2,3,3,2,10,High-Value / Engaged
+C175,5,686.22,4,80,2,2,2,2,8,Regular / Growth Potential
+C176,3,2263.22,3,65,1,3,2,1,7,Regular / Growth Potential
+C177,3,1790.28,3,78,1,3,2,1,7,Regular / Growth Potential
+C178,3,587.21,3,47,1,2,2,1,6,Regular / Growth Potential
+C179,4,1338.21,3,95,2,2,2,1,7,Regular / Growth Potential
+C180,2,225.3,2,72,1,1,2,1,5,At-Risk / Low Engagement
+C181,6,979.47,6,4,3,2,3,3,11,High-Value / Engaged
+C182,3,542.9,3,8,1,2,3,1,7,Regular / Growth Potential
+C183,3,276.09,3,67,1,1,2,1,5,At-Risk / Low Engagement
+C184,3,994.59,2,35,1,2,2,1,6,Regular / Growth Potential
+C185,7,925.59,6,74,3,2,2,3,10,High-Value / Engaged
+C186,5,2333.16,4,4,2,3,3,2,10,High-Value / Engaged
+C187,3,139.27,1,196,1,1,1,1,4,At-Risk / Low Engagement
+C188,4,1117.18,4,56,2,2,2,2,8,Regular / Growth Potential
+C189,3,672.86,3,84,1,2,2,1,6,Regular / Growth Potential
+C190,5,1167.13,4,119,2,2,1,2,7,Regular / Growth Potential
+C191,6,950.62,4,14,3,2,3,2,10,High-Value / Engaged
+C192,4,860.88,4,12,2,2,3,2,9,High-Value / Engaged
+C193,6,914.58,6,134,3,2,1,3,9,High-Value / Engaged
+C194,8,771.84,5,115,3,2,1,3,9,High-Value / Engaged
+C195,5,4633.83,4,113,2,3,2,2,9,High-Value / Engaged
+C196,6,637.96,6,26,3,2,2,3,10,High-Value / Engaged
+C197,2,905.71,2,75,1,2,2,1,6,Regular / Growth Potential
+C198,3,404.06,3,142,1,1,1,1,4,At-Risk / Low Engagement
+C199,5,619.08,4,122,2,2,1,2,7,Regular / Growth Potential
+C200,4,701.74,3,139,2,2,1,1,6,Regular / Growth Potential
+C201,3,646.48,3,52,1,2,2,1,6,Regular / Growth Potential
+C202,1,373.05,1,91,1,1,2,1,5,At-Risk / Low Engagement
+C203,8,534.06,4,122,3,2,1,2,8,Regular / Growth Potential
+C204,3,727.44,3,76,1,2,2,1,6,Regular / Growth Potential
+C205,2,197.51,2,105,1,1,2,1,5,At-Risk / Low Engagement
+C206,4,288.23,4,60,2,1,2,2,7,Regular / Growth Potential
+C207,2,169.0,2,238,1,1,1,1,4,At-Risk / Low Engagement
+C208,7,1351.56,4,5,3,2,3,2,10,High-Value / Engaged
+C209,5,1776.5,5,112,2,3,2,3,10,High-Value / Engaged
+C210,6,1257.78,4,35,3,2,2,2,9,High-Value / Engaged
+C211,5,1734.78,4,35,2,3,2,2,9,High-Value / Engaged
+C212,8,2185.79,7,39,3,3,2,3,11,High-Value / Engaged
+C213,6,901.21,3,141,3,2,1,1,7,Regular / Growth Potential
+C214,5,386.56,4,35,2,1,2,2,7,Regular / Growth Potential
+C215,4,1142.81,4,210,2,2,1,2,7,Regular / Growth Potential
+C216,3,502.98,3,9,1,2,3,1,7,Regular / Growth Potential
+C217,6,2599.42,5,51,3,3,2,3,11,High-Value / Engaged
+C218,1,124.13,1,68,1,1,2,1,5,At-Risk / Low Engagement
+C219,3,1021.73,3,128,1,2,1,1,5,At-Risk / Low Engagement
+C220,1,94.15,1,20,1,1,3,1,6,Regular / Growth Potential
+C221,6,1211.88,5,85,3,2,2,3,10,High-Value / Engaged
+C222,2,341.38,2,26,1,1,2,1,5,At-Risk / Low Engagement
+C223,6,685.34,5,133,3,2,1,3,9,High-Value / Engaged
+C224,7,2157.7,5,51,3,3,2,3,11,High-Value / Engaged
+C225,3,1347.86,2,31,1,2,2,1,6,Regular / Growth Potential
+C226,6,672.31,5,11,3,2,3,3,11,High-Value / Engaged
+C227,5,718.42,4,89,2,2,2,2,8,Regular / Growth Potential
+C228,3,635.76,3,6,1,2,3,1,7,Regular / Growth Potential
+C229,4,437.47,4,7,2,2,3,2,9,High-Value / Engaged
+C230,7,1155.17,7,11,3,2,3,3,11,High-Value / Engaged
+C231,8,726.18,5,23,3,2,2,3,10,High-Value / Engaged
+C232,4,1006.52,4,191,2,2,1,2,7,Regular / Growth Potential
+C233,9,6144.4,7,6,3,3,3,3,12,High-Value / Engaged
+C234,7,1242.01,6,75,3,2,2,3,10,High-Value / Engaged
+C235,4,1012.83,4,54,2,2,2,2,8,Regular / Growth Potential
+C236,1,378.74,1,357,1,1,1,1,4,At-Risk / Low Engagement
+C237,2,874.42,2,340,1,2,1,1,5,At-Risk / Low Engagement
+C238,5,640.34,5,17,2,2,3,3,10,High-Value / Engaged
+C239,2,149.16,2,55,1,1,2,1,5,At-Risk / Low Engagement
+C240,3,1190.32,3,112,1,2,2,1,6,Regular / Growth Potential
+C241,3,2558.33,3,162,1,3,1,1,6,Regular / Growth Potential
+C242,3,2187.86,3,170,1,3,1,1,6,Regular / Growth Potential
+C243,6,2167.52,5,43,3,3,2,3,11,High-Value / Engaged
+C244,9,1771.56,6,11,3,3,3,3,12,High-Value / Engaged
+C245,2,2380.4,2,166,1,3,1,1,6,Regular / Growth Potential
+C246,3,328.15,3,45,1,1,2,1,5,At-Risk / Low Engagement
+C247,2,387.67,2,173,1,1,1,1,4,At-Risk / Low Engagement
+C248,5,893.39,4,6,2,2,3,2,9,High-Value / Engaged
+C249,2,1484.02,2,205,1,2,1,1,5,At-Risk / Low Engagement
+C250,8,2106.39,6,50,3,3,2,3,11,High-Value / Engaged
+C252,3,1367.29,2,201,1,2,1,1,5,At-Risk / Low Engagement
+C253,2,312.6,2,136,1,1,1,1,4,At-Risk / Low Engagement
+C254,5,1516.64,4,100,2,3,2,2,9,High-Value / Engaged
+C255,6,581.71,5,98,3,2,2,3,10,High-Value / Engaged
+C256,3,273.28,3,31,1,1,2,1,5,At-Risk / Low Engagement
+C257,6,1485.62,5,9,3,3,3,3,12,High-Value / Engaged
+C258,2,1207.27,2,164,1,2,1,1,5,At-Risk / Low Engagement
+C259,5,456.47,4,5,2,2,3,2,9,High-Value / Engaged
+C260,2,821.71,2,85,1,2,2,1,6,Regular / Growth Potential
+C261,5,2060.27,5,240,2,3,1,3,9,High-Value / Engaged
+C262,4,635.61,3,74,2,2,2,1,7,Regular / Growth Potential
+C263,2,1484.89,2,144,1,3,1,1,6,Regular / Growth Potential
+C264,5,391.93,5,64,2,1,2,3,8,Regular / Growth Potential
+C265,6,703.66,6,58,3,2,2,3,10,High-Value / Engaged
+C266,5,363.73,3,40,2,1,2,1,6,Regular / Growth Potential
+C267,5,473.43,4,16,2,2,3,2,9,High-Value / Engaged
+C268,8,1937.07,7,14,3,3,3,3,12,High-Value / Engaged
+C269,4,501.81,3,23,2,2,2,1,7,Regular / Growth Potential
+C270,7,750.71,5,21,3,2,3,3,11,High-Value / Engaged
+C271,3,2326.94,3,165,1,3,1,1,6,Regular / Growth Potential
+C272,8,748.22,6,88,3,2,2,3,10,High-Value / Engaged
+C273,3,564.09,2,53,1,2,2,1,6,Regular / Growth Potential
+C274,8,2141.33,5,8,3,3,3,3,12,High-Value / Engaged
+C275,9,4687.81,7,83,3,3,2,3,11,High-Value / Engaged
+C276,3,1630.84,3,217,1,3,1,1,6,Regular / Growth Potential
+C277,4,700.37,4,8,2,2,3,2,9,High-Value / Engaged
+C278,2,1978.62,2,5,1,3,3,1,8,Regular / Growth Potential
+C279,6,2070.33,6,91,3,3,2,3,11,High-Value / Engaged
+C280,6,622.74,5,27,3,2,2,3,10,High-Value / Engaged
