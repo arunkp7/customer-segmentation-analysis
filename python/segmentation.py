@@ -171,3 +171,44 @@ segment_profile = customer_metrics.groupby("Segment", observed=True)[
 
 print("\nSegment profile:")
 print(segment_profile)
+
+# ---------------------------------------------------------
+# 5. SEGMENT BUSINESS ANALYSIS
+# ---------------------------------------------------------
+
+# Calculate the number of customers and average metrics
+# for each customer segment
+segment_analysis = customer_metrics.groupby(
+    "Segment",
+    observed=True
+).agg(
+    Customer_Count=("Segment", "size"),
+    Avg_Frequency=("Transaction_Frequency", "mean"),
+    Avg_Spending=("Spending", "mean"),
+    Avg_Product_Usage=("Product_Usage", "mean"),
+    Avg_Recency=("Recency", "mean")
+).round(2)
+
+print("\nSegment business analysis:")
+print(segment_analysis)
+
+# ---------------------------------------------------------
+# 6. SEGMENT REVENUE CONTRIBUTION
+# ---------------------------------------------------------
+
+# Calculate total customer spending for each segment
+segment_revenue = customer_metrics.groupby(
+    "Segment",
+    observed=True
+)["Spending"].sum().round(2)
+
+print("\nSegment revenue contribution:")
+print(segment_revenue)
+
+# Calculate each segment's percentage of total customer spending
+segment_revenue_percentage = (
+    segment_revenue / customer_metrics["Spending"].sum() * 100
+).round(2)
+
+print("\nSegment revenue percentage:")
+print(segment_revenue_percentage)
