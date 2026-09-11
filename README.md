@@ -4,6 +4,14 @@ A customer analytics project focused on understanding purchasing behavior, engag
 
 ## Dashboard Preview
 
+### Tableau Public
+
+[View the interactive Tableau Public dashboard](https://public.tableau.com/app/profile/arun.pal4087/viz/CustomerSegmentationBehavioralAnalysis/CustomerSegmentationDashboard)
+
+![Customer Segmentation Dashboard - Tableau](reports/screenshots/tableau_segmentation_dashboard.png)
+
+### Power BI
+
 ![Customer Segmentation Dashboard](reports/screenshots/customer_segmentation_dashboard.png)
 
 ## Business Objective
