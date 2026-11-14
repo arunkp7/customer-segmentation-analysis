@@ -1,7 +1,21 @@
 import pandas as pd
 
-# Load cleaned transaction data
-df = pd.read_csv("data/processed/customer_transactions_clean.csv")
+from google.cloud import bigquery
+
+# Connect to Google BigQuery
+client = bigquery.Client(project="rational-symbol-514709-e8")
+
+# Load cleaned transaction data from BigQuery
+query = """
+SELECT *
+FROM `rational-symbol-514709-e8.customer_segmentation.customer_transactions_clean`
+"""
+
+rows = client.query(query).result()
+df = pd.DataFrame([dict(row) for row in rows])
+
+print("Data loaded successfully from BigQuery.")
+print("Total transactions:", len(df))
 
 # Convert transaction date from text into a date format
 df["Transaction_Date"] = pd.to_datetime(

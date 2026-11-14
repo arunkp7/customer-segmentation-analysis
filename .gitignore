@@ -25,3 +25,6 @@ Thumbs.db
 
 # Excel temporary files
 ~$*.xlsx
+
+# Google Cloud credentials
+.secrets/
