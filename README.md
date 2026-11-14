@@ -1,6 +1,6 @@
 # Customer Segmentation & Behavioral Analysis
 
-A customer analytics project focused on understanding purchasing behavior, engagement patterns, and customer segments using **Excel, Python, SQL, and Power BI**.
+A customer analytics project focused on understanding purchasing behavior, engagement patterns, and customer segments using **Google Sheets, Excel, Python, BigQuery, SQLite, Power BI, and Tableau**.
 
 ## Dashboard Preview
 
@@ -53,7 +53,9 @@ The project uses a synthetic retail/e-commerce transaction dataset containing:
 
 Raw Transaction Data
         ↓
-Excel Data Cleaning
+Google Sheets Data Cleaning & Validation
+        ↓
+Google BigQuery Data Storage
         ↓
 Python Exploratory Data Analysis
         ↓
@@ -61,15 +63,15 @@ Customer-Level Metrics
         ↓
 Behavioral Segmentation
         ↓
-SQL Business Analysis
+BigQuery SQL Business Analysis
         ↓
-Power BI Dashboard
+Power BI & Tableau Dashboards
         ↓
 Business Recommendations
 
 ## Data Cleaning
 
-Excel was used as the primary data-cleaning tool.
+Google Sheets was used for data cleaning and validation.
 
 The following checks were performed:
 
@@ -79,12 +81,13 @@ The following checks were performed:
 * Invalid or zero values
 * Category consistency
 * Column formatting
+* Transaction amount consistency
 
-The final cleaned dataset contains **1,200 transaction records and 10 columns**.
+The final cleaned dataset contains **1,200 transaction records and 10 columns** and is used for subsequent analysis.
 
 ## Python Analysis
 
-Python and Pandas were used for focused exploratory analysis and customer-level metric creation.
+Python and Pandas were used for exploratory data analysis, customer-level metric creation, and behavioral segmentation.
 
 ### Exploratory Analysis
 
@@ -95,6 +98,7 @@ The analysis examined:
 * Spending per customer
 * Sales by product category
 * Sales by region
+
 
 ### Customer-Level Metrics
 
@@ -134,7 +138,9 @@ The combined score was then used to create three customer segments:
 
 ## SQL Analysis
 
-SQLite was used to answer business questions including:
+Google BigQuery and SQLite were used for SQL-based business analysis.
+
+Queries were developed to answer business questions including:
 
 * Top products by sales
 * Top customers by spending
@@ -170,10 +176,12 @@ Use re-engagement campaigns, targeted incentives, and reminders to encourage ina
 
 ## Tools Used
 
-* **Excel** — Data cleaning and validation
+* **Google Sheets and Excel** — Data cleaning and validation
+* **Google BigQuery** — Data storage and SQL analysis
 * **Python / Pandas** — Exploratory analysis, customer metrics, and segmentation
-* **SQLite** — Business analysis queries
+* **SQLite** — Original relational database analysis
 * **Power BI** — Dashboard and visualization
+* **Tableau Public** — Interactive dashboard
 * **Git / GitHub** — Version control
 
 ## Project Structure
@@ -181,22 +189,27 @@ Use re-engagement campaigns, targeted incentives, and reminders to encourage ina
 customer-segmentation-analysis/
 ├── data/
 │   ├── raw/
-│   └── processed/
+│   ├── processed/
+│   └── google_sheets/
+│       └── customer_transactions_clean.csv
 ├── python/
 │   ├── eda.py
+│   ├── generate_data.py
 │   └── segmentation.py
 ├── sql/
 │   ├── analysis.sql
+│   ├── bigquery_analysis.sql
 │   └── customer_analysis.db
 ├── powerbi/
 │   └── customer_segmentation.pbix
+├── tableau/
+│   └── customer_segmentation.twb
 ├── reports/
 │   └── screenshots/
-│       └── customer_segmentation_dashboard.png
 ├── .gitignore
 ├── README.md
 └── requirements.txt
 
 ## Conclusion
 
-This project demonstrates an end-to-end customer analytics workflow, from transaction data cleaning and exploratory analysis to customer-level metrics, behavioral segmentation, SQL analysis, Power BI visualization, and business recommendations.
+This project demonstrates an end-to-end customer analytics workflow, from data cleaning and validation using Google Sheets and Excel to data storage and SQL analysis in BigQuery and SQLite, exploratory analysis and behavioral segmentation using Python, dashboard development in Power BI and Tableau, and actionable business recommendations.
